@@ -13,4 +13,4 @@ and like that, for all the nicks.
 
 ----
 
-![Alt text](screenshot.png?raw=true "https://dgplug.org/irclogs/2016/")
+![Screenshot of DgpLUG logs](img/screenshot.png?raw=true "https://dgplug.org/irclogs/2016/")
