@@ -1,0 +1,963 @@
+[15:00:37] [## Class Started at Sun Jun 19 15:00:37 2016 ##]
+[15:00:37] <kushal> startclass
+[15:00:39] <avik> Ultimatepritam hey, im  from kolkata
+[15:00:41] <rahuldecoded_> NE where ?
+[15:00:45] <Ultimatepritam> SRvSaha, hello :)
+[15:00:45] <shobhit> lets see
+[15:00:49] <chandankumar> \o
+[15:00:52] <kushal> Hello and welcome everyone.
+[15:00:55] <code_geek> Hi
+[15:00:58] <fhackdroid> kushal, o/
+[15:00:59] <snarwade> hello
+[15:01:00] <gunjan_11> hi
+[15:01:00] <gkadam> hello kushal , chandankumar
+[15:01:02] <gobinda_> gobinda akhuli
+[15:01:03] <kashyap638> hello
+[15:01:03] <sdas> Hi kushal
+[15:01:03] <amey> hi
+[15:01:04] <Rnarwade> hello
+[15:01:04] <SRvSaha> hie kushal
+[15:01:04] <Abraarsyed> @iyogeshjoshi nice to hear from you after so long ;)
+[15:01:04] <vharsh> chandankumar, what's \o
+[15:01:04] <ksaikiranr> hello
+[15:01:06] <aghadge> hi
+[15:01:07] <deeksha19> Hey
+[15:01:08] <Ultimatepritam> avik, are you a student?
+[15:01:08] <tabrez> hi
+[15:01:09] <shobhit> hello kushal
+[15:01:09] <rohan_h> Hi Kushal :D
+[15:01:11] <warlord77> hi
+[15:01:11] <kushal> Welcome to Summer Training 2016
+[15:01:16] <mr-karan> kushal: o/
+[15:01:18] <avik> Ultimatepritam yes
+[15:01:18] <suniva> Hello Kushal
+[15:01:21] <tejasgadsing> hello kushal chandankumar
+[15:01:21] <anushil_> yeah.......................
+[15:01:24] <mupadhye> hello everyone
+[15:01:27] <amitkumarja> Hello Kushal
+[15:01:28] <rahuldecoded_> Hi Kushal :)
+[15:01:32] <Ultimatepritam> Should we stop talking now?
+[15:01:33] <anushil_> lets get started
+[15:01:38] <prasant> Hey Kaushal :)
+[15:01:38] <shauryak_3> Hello everyone
+[15:01:39] <shobhit> hello chandan kumar
+[15:01:39] <anushil_> ok
+[15:01:39] <susenj> Too many hi, hellos. Has the class started?
+[15:01:40] <kushal> Ultimatepritam, that is a good idea.
+[15:01:41] <snarwade> Hello kushal :)
+[15:01:50] <Rich99> hellow everyone
+[15:01:52] <D1mz> hello everyone
+[15:01:53] <kushal> Everyone please be silent.
+[15:01:58] <anushil_> lead us fhackdroid
+[15:02:39] <kushal> Ah, nice, and thanks.
+[15:02:46] <kushal> So this is our first session.
+[15:03:05] <Rich99> so....?
+[15:03:20] <kushal> Before we do anything else, let us do introduction first.
+[15:03:39] <Love_Guru_> !
+[15:03:50] <SRvSaha> !
+[15:04:14] <kushal> So everyone can you please type in one line about you, like where are you from/what do you do etc?
+[15:04:30] <mr-karan> I'm a Pythonista, BTech CSE in 4th year now, Full stack web dev and GSoC'16 student for coala (Python Software Foundation)
+[15:04:36] * kushal works as Fedora Cloud Engineer in Red Hat, lives in Pune. 
+[15:04:51] <mhalano> Hello everyone! I'm a computer engineering student from Brazil's south.
+[15:04:51] <anushil_> Anushil Kumar,bangalore,DSCE,2nd year
+[15:04:54] <poonam> join
+[15:04:55] <sdas> This is Subhradip from Bengaluru/Role : QA
+[15:05:02] <code_geek> My name is Shantanu Acharya. I am from Lucknow and I am a 2nd year B.Tech CSE student at NIT Mizoram.
+[15:05:03] <vivekshelar> Vivek pursuing MCA , lives in pune
+[15:05:06] <SRvSaha> Saurav Saha, B.Tech 2nd Year CSE, NIT Mizoram. Intrested in Open Source and Linux fan in general
+[15:05:07] <abhi2016> i am abhi from delhi
+[15:05:09] <deeksha19> Hello guys. I am Deeksha, Btec IT, final year . Studying in VIT university, Vellore, India.
+[15:05:11] <Rich99> okay...name mayank gupta a singer Btech CSE 1st year Jaipur my brother works at redhat
+[15:05:12] <tejasgadsing> Tejas from pune just passed diploma
+[15:05:14] <srinidhi> from Mysuru, Karnataka. Completed Engg from SJCE this year.
+[15:05:14] <rajalokan> Hey Guys, I'm Alok. I'm from Bangalore and with moderate python experience. Excited and hoping to learn and share our knowledge together.
+[15:05:15] <snarwade> hello, myself Suraj Narwade, Devops intern at Red Hat, lives in pune, from Aurangabad
+[15:05:15] <yASH___> Yashwanth CSE 4th year Chennai
+[15:05:18] <prabhatsharma> prabhat i work for Trimble as SQE and live in pune...
+[15:05:19] <chshbh> cs student, will be in 3rd year, from delhi, currently dehradun.
+[15:05:19] <ksaikiranr> Hello, my name is sai kiran, 4th year b.tech student cse.
+[15:05:27] <shmed> Hi . I am Suhail and I am from kerala. I finished college and started working as a front end developer.
+[15:05:28] <indiabhi> Hi I am Abhishek, final year ECE student at IIIT Jabalpur interning at Bookmyshow in Bangalore.
+[15:05:28] <Rnarwade> Rushiprasad Narwade. I am in 10th std. Aurangabad
+[15:05:30] <shauryak_3> BTech 2nd year student , lives in gurgaon
+[15:05:32] <kashyap638> abhishek kashyap ,durgapur , dr b.c.roy ,2nd yr
+[15:05:32] <aman935> I am a 1st yearite B.Tech EE. Beginner in Python and new to open source
+[15:05:32] <arthar360> Atharva Deshmukh | Nagpur, Maharashtra | LL.B 1st year
+[15:05:32] <iyogeshjoshi> From Bangalore work as Software Engg. for Ather Energy.
+[15:05:34] <gunjan_11> I m gunjan, a second year eng student from Bengaluru :)
+[15:05:34] <Abraarsyed> Hey, i am abraarsyed from bangalore. Just finished engineering and working as product engineer :) i am interested in learning new technologies:)
+[15:05:36] <warlord77> Hello everyone , Sahil , Btech CSE 3rd year, From Delhi
+[15:05:37] <SKPyne> Hi - I am Ashmita - student and want to learn
+[15:05:40] <Kanak> i am Kanak, studying in Kalyani Govt. engg College.. I am from Raiganj
+[15:05:41] <buvanesh_kumar> I'm Buvanesh kumar works as intern, Labs & Capital management at Red Hat, Bangalore.
+[15:05:42] <chirath> I am Chirath R, Btech CSE 3rd year. I am from Kerala.
+[15:05:46] <d1ndra> Final year CS Undergrad from MIT, Manipal.
+[15:05:49] <surajd> Hi, My name is Suraj Deshmukh and I work at Red Hat on containers and technologies around it, so my work involves Python and Golang
+[15:05:50] <nishapoyarekar> Nisha Poyarekar, SAP Consultant, Pune
+[15:05:50] <amey> I am Amey Jain 2nd year B.E. IT student at JEC, linux enthusiast
+[15:05:53] <D1mz> Aditya,CS student from Vijayawada, AP
+[15:05:54] <rohan_h> Hi! I'm Rohan Hazra.I'm form Kolkata.Doing major in CSE. A wannabe developer . :D
+[15:05:56] <anjalipardeshi> Hello everyone I am software Engineer working as Python Developer from Pune
+[15:05:57] <psusundre> I m Pradeep. BE E&TC from Aurangabad, Maharashtra
+[15:05:59] <yajushi> Hello! This is Yajushi Srivastava. I'm pursuing B.Tech in CSE from Arya College of Engg. & IT, Jaipur.
+[15:06:00] mayur is now known as Guest72176
+[15:06:00] <abstatic> I am Abhishek Shrivastava. Pursuing BE(CSE) final year from Bhopal. Doing GSOC'16 project on computational genomics. My tech stack is pyhton, java.
+[15:06:02] <shobhit> I am from bangalore.I am btech.I am interested to learn new technology
+[15:06:03] <priyanka> i am priyanka.. about to start my 1st year..here to learn from you all...
+[15:06:03] <mahesh5> Hi,I am Mahesh CSE 2nd year Delhi
+[15:06:03] <kunalk> I am Kunal, 3rd year CS student from Mysore
+[15:06:04] <tabrez> i am software engineer working at Ericsson,Navi Mumbai
+[15:06:04] <vharsh> I am Harsh Vardhan, I am a pre-third year student at kiit university, Bhubaneswar. I like programming in C/java
+[15:06:04] <Ultimatepritam> I am Pritam Mondal, 4th Sem Btech CSE Student from Techno India University
+[15:06:05] <prasant> Prasant Rai, presently staying in my hometown Gorkhpur, work as Sopport Analyst (WordPress).
+[15:06:05] <rabi> i am rabi from kolkata and i am doing masters in physics
+[15:06:05] <rahuldecoded_> this is rahul, IT 2nd Year. Active Mozillian
+[15:06:15] <mupadhye> hello I am Madhuri QE intern at Red hat lives in Pune from Shrirampur
+[15:06:15] <iKshitij_> hello everyone, this is kshitij ! Btech Undergrad 1st year ! Durgapur
+[15:06:20] <thisisashwani> hi, i am ashwani, student from nit silchar
+[15:06:23] grepRoot is now known as gourav
+[15:06:25] <sandy_> I am Sandeep Kumar,4th year B.tech CSE student from punjab(north west of india)
+[15:06:26] <susenj> I am Neeraj, software developer by profession. I live in Delhi, and have been a silent reader of almost all summer trainings so far.
+[15:06:29] <prashaant> I am Prashant , B.Tech CSE 4th year
+[15:06:29] <saru> I am Saran ,B tech 3rd year.I am from Amrita,kerla
+[15:06:31] <tbhosale> kushal, I'm Tejshree . I am from Pune and I am working as associate engineer
+[15:06:33] <moizsajid> I am also a Mozillian!
+[15:06:41] <madhuri> hi, i am madhuri muley, studying in 3rd year MIT b.tecg aurangabad. Maharashtra
+[15:06:42] <akash231997> Hey! Im akash cse btech 2 nd yr
+[15:06:53] <avik> i am from kolkata. i am a student (this year 12 pass out). i have some idea of programming but not python or fedora cmds!
+[15:06:58] * chandankumar works as a Software Engineer in Red Hat, Pune (India), As well as RDO / OpenStack contributor and Python Pune Meetup Organizer
+[15:07:03] <PrashantJ> My name is Prashant. I work for Accenture in Hyderabad. Interested in Python, Linux.
+[15:07:04] <iSingh> Ishdeep Singh, 3rd year, KIIT bhubaneswar. Mighty. Small.
+[15:07:06] <abk> Abheek Bhowmik, national institute of technology, durgapur, 2nd year ece student ,I have a basic level knowledge on java, c and c++ aims to know coding with understanding architecture
+[15:07:07] <ankushg07> Hello ... !! I am  Ankush Goyal Btech 3rd year from Jaipur
+[15:07:08] <SpEcHiDe> I am Shrimadhav U K. I am currently in my final year studying Computer Science and Engineering at National institute of technology, Calicut.
+[15:07:14] <gobinda_> I am gobinda Akhuli MCA final year from AOT west bengal
+[15:07:24] <suniva> Hi, I am from Bangalore working as a Software Test Engineer and keen to contribute in Opensource
+[15:07:31] <gkadam> Ganesh Kadam. Red Hat Intern , working in Certifications Engineering . Lives in Pune
+[15:07:37] <rbajaj_> Hey, I am Rahul Bajaj, i am a 4th year engineering student from pune.
+[15:07:43] <Guest72176> I am Mayur, Completed Diploma CSE , Aurangabad completed about 5 certificates of Redhat
+[15:07:54] <amitkumarja> Hello evryone! I'm Amit Kumar Jaiswal, currently pursuing B.Tech(CSE) IIIrd year from Kanpur University. Currently working as an Intern(Software Developer) at CapitalVia, Indore!
+[15:07:54] <rajkmaurya111> I am a junior of Computer Science and Engineering (B.Tech) from Kanpur
+[15:08:03] <ketank> i am ketan kumar.. BCA student galgotias university.. delhi
+[15:08:04] <lambainsaan> Hello, I am Rhitik, I am from Banswara, Rajasthan. I recently dropped out of college as the course content and the teaching staff was very poor, I was pursuing B.Tech in Computer Science Engineering. Iwant to know how open source technologies work and currently I know Python, C, C++, Java, JS.
+[15:08:14] <aman935> I am a 1st yearite B.Tech EE, IIT Mandi. Beginner in Python and new to open source. I am from Noida, Delhi-NCR.
+[15:08:33] * CuriousLearner is a FOSS enthusiast and a software developer. Contributes to Mozilla. You can come across him in various open source meet-ups in Delhi
+[15:08:50] <hiro_dev> I am abhishek , 3rd year student from NIT , Kurukshetra
+[15:08:57] * Poornima works as Software Engineer in RedHat lives in pune also contributor in opensource project like sos , openstack-tempest always ready to learn new stuff 
+[15:09:08] <Love_Guru_> Hi everyone, I'm a MTECH CS student from bangalore, currently working with Cisco,bangalore, cessna campus, looking forward to learning and contributing to opensource.!!!
+[15:09:10] <isaagar> Hi , I am Sagar.  open source enthusiast  and debian contributor
+[15:09:24] <abhishekcs10> Hi, I am Abhishek Tiwari (CSE) working in TCS...know about linux and eager to learn about open source development
+[15:09:39] * fhackdroid engg. student 3rd year from Bangalore,  GSoC16, codes for pagure, From Varanasi. Loves to explore new tech. and believes in learn and teach 
+[15:09:48] * sayan is a Fedora Infrastructure Engineer, lives in Pune. Primarily a Python programmer.
+[15:09:56] <ritesh> Hello... I am from 3rd yr CSE from Kalyani Govt. Engg College. I know a bit of Linux....   I know Java, C and Python
+[15:10:04] <prasanthp96> hello all ! I'm Prasanth , currently persuing 3rd yr  BE CSE. I am happy to be a part of this summer camp
+[15:10:05] <jrgnmonk> Hi, I'm Aniket Khisti, final year Computer Engineering student from Pune.
+[15:10:23] <moizsajid> How can I save this IRC session in XChat?
+[15:10:30] <shashank> Hi! I'm shashank , final year engineering student from Pune
+[15:10:33] <sneo> Hello I am Sarah, RedHat intern at Bangalore
+[15:10:35] <gourav> Hello ! My name is Gourav Chawla. I'm a System Architect at Sigmaway and Open Source enthusiast. I love working with python and was introduced to DGPlug during one of the python meetups here in Delhi.
+[15:10:44] <kushal> moizsajid, We will publish the log after the session.
+[15:10:48] <rajkmaurya111> I am a junior of Computer Science and Engineering (B.Tech) from Kanpur, currently Intern at Xerox Research Center B'lore
+[15:10:54] <guptaH> I am harshit gupta from KIIT university bhubaneshwar.
+[15:11:02] <rajalokan> moizsajid, Setting --> Chatting --> Logging , mark save it to disk.
+[15:11:25] <banty> My Name is Banty Kumar, programmer at Vuclip entertainment limited and I am here because i love python programming
+[15:11:32] <JRodDynamite> I'm Jason. Working in an IT firm in Nagpur. Passed out from engg last year.
+[15:11:48] * dhritishikhar is a Red Hat Intern from bangalore. Working on project Atomic.
+[15:11:55] <iKshitij_> moizsajid Xchat > Window > Save Text
+[15:11:56] <vipul_> hi, I am Vipul from BCA, Christ University, Bangalore
+[15:11:57] <gumil> Hi, I am agung gumilang 2nd year IS student. Live in Indonesia, i know a bit about c programming and using linux for daily activities.
+[15:12:00] <surajd> moizsajid, you can enable logging in settings
+[15:12:11] <banty> when is this thing gonna start
+[15:12:17] * fhackdroid afk
+[15:12:21] <vharsh> banty, It has started.
+[15:12:33] <kushal> Okay, thank you everyone.
+[15:12:34] <surajd> moizsajid, i would recommend using HexChat, Xchat is not supported anymore, it has bugs and it fails
+[15:12:52] <kushal> First, I am going to say a few lines about the training.
+[15:12:53] <Love_Guru_> !
+[15:12:54] <anushil_> use pidgin moizsajid
+[15:13:06] <kushal> Love_Guru_, wait for some time.
+[15:13:10] <anushil_> server name weber.freenode.net
+[15:13:24] <Rich99> okay
+[15:13:27] <banty> Where should i go for attending the course
+[15:13:28] <banty> ?
+[15:13:35] <imack> hi everyone, i am Mahendra Yadav from Durgapur, 3rd year CSE
+[15:13:37] <kushal> banty, You are in the right place.
+[15:13:47] <moizsajid> kushal, rajalokan, iKshitij_, surajd, anushil_ Thanks for reply!
+[15:13:56] <ShaswataD> Hello, I am Shaswata Dutta. I am currently pursuing MCA from Pondicherry Central University, 3rd semester. I am a active member of the FSUGPU, Free Software Users Group, Pondicherry University. I have worked as a freelance web developer using full stack FOSS technologies during the last 3 years.
+[15:13:57] <shobhit> I am beginner in python and btech(it) passout.I again come back after a long gap.again start to learn new technology
+[15:14:04] <banty> ok so I should wait here?
+[15:14:20] <beginer> Hi, I m Nisha, Mtech first yr(CS) student from Banglore. i m keenly interested in learning scripting language like pythen and Java Script as i love Web development
+[15:14:23] <mayurparik> Is training started??
+[15:14:27] <anushil_> kushal u were saying???
+[15:14:28] <warlord77> banty, absolutely correct
+[15:14:30] <rbajaj_> banty, please let kushal speak.
+[15:15:36] <kushal> sayan, Thanks
+[15:15:55] <kushal> So others can not talk here right now.
+[15:16:39] <kushal> The goal behind this training is to help you to use your computer in a better way using FOSS technologies, and slowly convert you into a contributor from a regular user.
+[15:17:03] <kushal> The whole training will be here in this channel on IRC.
+[15:17:21] <kushal> You will require a linux system in the coming days for the sessions.
+[15:17:30] <kushal> A few points about the sessions.
+[15:17:45] <kushal> We will generally start at 6:30PM IST.
+[15:18:21] <kushal> After the session starts message, the trainer will ask for a Roll Call, everyone please type in the full real name.
+[15:18:32] <kushal> We will do a demo roll call now.
+[15:18:43] <code_geek> Shantanu Acharya
+[15:18:44] <kushal> Roll Call
+[15:18:46] <CuriousLearner> Sanyam Khurana
+[15:18:47] <chshbh> Avinash Madhukar
+[15:18:49] <vharsh> Harsh Vardhan
+[15:18:49] <abstatic> Abhishek Shrivastava
+[15:18:50] <arthar360> Atharva Deshmukh
+[15:18:50] <kushal> Kushal Das
+[15:18:50] <lambainsaan> Rhitik Bhatt
+[15:18:50] <sdas> Subhradip Das
+[15:18:51] <mhalano> Marcos H. Alano
+[15:18:51] <ketank> ketan kumar
+[15:18:51] <SRvSaha> Saurav Saha
+[15:18:51] <iyogeshjoshi> Yogesh Joshi
+[15:18:52] <amey> Amey Jain
+[15:18:52] <prashaant> Prashant Sharma
+[15:18:52] <dhanesh95> Dhanesh B. Sabane
+[15:18:53] <gourav> Gourav Chawla
+[15:18:53] <thisisashwani> Ashwani Pandey
+[15:18:53] <kunalk> Kunal Kumar
+[15:18:53] <akash23> Akash Agarwal
+[15:18:53] <hiro_dev> Abhishek Goswami
+[15:18:53] <prasant> Prasant Kumar Rai
+[15:18:54] <abk> Abheek bhowmik
+[15:18:54] <ShaswataD> Shaswata Dutta
+[15:18:54] <ksaikiranr> K Sai Kiran
+[15:18:54] <kashyap638> abhishek kashyap
+[15:18:54] <priyanka> priyanka sharma
+[15:18:54] <prabhatsharma> Prabhat Sharma
+[15:18:55] <shauryak_3> Shaurya Kalia
+[15:18:56] <buvanesh_kumar> Buvanesh Kumar
+[15:18:56] <mitra00> Shubhodeep Mitra
+[15:18:56] <shobhit> shobhit upadhyay
+[15:18:56] <gumil> Agung Gumilang
+[15:18:57] <rbajaj_> Rahul Bajaj
+[15:18:57] <warlord77> Sahil Joseph
+[15:18:57] <chandankumar> Chandan Kumar
+[15:18:57] <tejasgadsing> Tejas Gadsing
+[15:18:58] <ankushg07> Ankush Goyal
+[15:18:58] <rohan_h> Rohan Hazra
+[15:18:58] <yajushi> Yajushi Srivastava
+[15:18:58] <gkadam> Ganesh Kadam
+[15:18:58] <suniva> Suniva Priyadarshini
+[15:18:58] <pritam1122> Pritam Mondal
+[15:18:59] <Kanak> Kanak Kumar Das
+[15:18:59] <D1mz> Aditya Bayana
+[15:18:59] <jrgnmonk> Aniket Khisti
+[15:19:00] <avik> Avik Mukherjee
+[15:19:00] <sandy_> Sandeep kumar Choudhary
+[15:19:00] <sayan> Sayan Chowdhury
+[15:19:00] <anushil_> Anushil Kumar
+[15:19:01] <gunjan_11> Gunjan Tank
+[15:19:01] <vipul__> Vipul Siddharth
+[15:19:01] <jAtin> Jatin Chhabriya
+[15:19:03] <yASH___> Yashwanth M
+[15:19:03] <sandeepmaity09> Sandeep Maity
+[15:19:03] <snarwade> Suraj Narwade
+[15:19:03] <indiabhi> Abhishek Rai
+[15:19:04] <Rnarwade> Rushiprasad Narwade
+[15:19:04] <psusundre> Pradeep Susundre
+[15:19:05] <mayurparik> Mayur Parik
+[15:19:05] <saru> Saran Teja
+[15:19:05] <mr-karan> Karan Sharma
+[15:19:06] <sneo> Sarah Masud
+[15:19:08] <chirath> Chirath R
+[15:19:08] <tabrez> Tabrez khan
+[15:19:08] <neha_> Neha Unavane
+[15:19:08] <mupadhye> Madhuri Upadhye
+[15:19:09] <zindaHUN> jatin beohar
+[15:19:09] <SKPyne> Supriyo Pyne
+[15:19:09] <imack> Mahendra Yadav
+[15:19:11] <Rich99> Mayank Gupta
+[15:19:11] <JRodDynamite> Jason Estibeiro
+[15:19:13] <anushil_> Anushil Kumar
+[15:19:14] <amitkumarja> Amit Kumar Jaiswal
+[15:19:16] <anushil_> Anushil Kumar
+[15:19:17] <harikavreddy> Harini
+[15:19:17] <deeksha19> Deeksha Aruloli
+[15:19:18] <thunderoy> Abhishek Kumar Roy
+[15:19:18] <moizsajid> Moiz Sajid
+[15:19:19] <anushil_> Anushil Kumar
+[15:19:20] <prasanth> Prasanth P
+[15:19:27] <abhi2016> Abhinandan B
+[15:19:29] <vivekshelar> Vivek Shelar
+[15:19:31] <surajd> Suraj Deshmukh
+[15:19:31] <shashank> Shashank Lochan
+[15:19:33] <rahuldecoded_> Rahul Bhattacharjee
+[15:19:40] <rajkmaurya111> Raj Kumar Maurya
+[15:19:42] <isaagar> Sagar Ippalpalli
+[15:19:44] <vbhjain> vbhjain
+[15:19:47] <Love_Guru_> Akshay Mane
+[15:19:49] <tbhosale> Tejshree pralhad bhosale
+[15:19:50] <abhishekcs10> Abhishek Tiwari
+[15:19:53] <vbhjain> vaibhav jain
+[15:19:53] <PrashantJ> Prashant Jamkhande
+[15:19:55] <gobinda_> gobinda akhuli
+[15:19:57] <smdeep> Sudeep Mukherjee
+[15:20:00] <aman935> Aman Singh
+[15:20:07] <nishapoyarekar> Nisha Poyarekar
+[15:20:08] <dhritishikhar> Dhriti Shikhar
+[15:20:09] <iKshitij_> Kshitij
+[15:20:33] <srinidhi> Srinidhi R.
+[15:20:41] <kushal> Good.
+[15:20:42] <ritesh> Ritesh Mukim
+[15:20:51] <kushal> Now few more rules about the sessions.
+[15:21:01] <banty> Banty Kumar
+[15:21:14] <kushal> Do not speak when the session is going on.
+[15:21:14] <kushal> If you have a question type ! and wait for your turn.
+[15:21:14] <kushal> Try to come online 5 minutes before the session starts.
+[15:21:14] <kushal> Address people by their IRC nick.
+[15:21:29] <beginer> Nisha Kumari
+[15:21:38] <mr-karan> !
+[15:21:44] <kushal> next
+[15:22:10] <kushal> next
+[15:22:16] <kushal> next
+[15:22:18] <CuriousLearner> kushal, please clear the queue
+[15:22:18] <kushal> next
+[15:22:21] <SRvSaha> My query is solved thanks :)
+[15:22:29] <mr-karan> Is there any schedule available kushal
+[15:22:32] <kushal> CuriousLearner, it is cleared now.
+[15:22:34] <kushal> mr-karan, Nope.
+[15:22:52] <shashank> !
+[15:22:55] <abhi2016> !
+[15:22:56] <kushal> We expect people to come online regularly on IRC
+[15:22:58] <anushil_> !
+[15:22:58] <vharsh> !
+[15:23:06] <kushal> That is another part of the training.
+[15:23:15] <deeksha19> !
+[15:23:17] <ketank> kushal what if we miss the session??
+[15:23:17] <kushal> In Open Source/FOSS world, we use IRC a lot.
+[15:23:29] <pritam1122> !
+[15:23:43] <kushal> But you should first make an habit of coming online, and chatting with people here.
+[15:23:43] <Love_Guru_> not a question , but it would be great if we got to know about the Topic of the session well in advance!
+[15:23:54] <rbajaj_> kushal, can you set the mode to +m.
+[15:24:10] <kushal> Remember to respect others.
+[15:24:14] <mr-karan> ok, thanks kushal
+[15:24:18] <kushal> ketank, there will be logs.
+[15:24:21] <kushal> next
+[15:24:27] <shashank> How long would the training be on an everyday basis ?
+[15:24:57] <kushal> shashank, usually around 2 hours at max, few sessions can go longer.
+[15:25:06] <kushal> But we stay online whole day mostly :)
+[15:25:07] <kushal> next
+[15:25:10] <deeksha19> What are the prerequisites for this training?
+[15:25:13] <abhi2016> my query answered thanks
+[15:25:18] <kushal> next
+[15:25:25] <anushil_> clear
+[15:25:31] <vharsh> is \o or \0 equivalent to <EOF> or <EOM>? I saw some people writing it after the message, before the session began. So that's way up.
+[15:25:31] <kushal> deeksha19, you should type ! and wait.
+[15:25:32] <kushal> next
+[15:25:38] <vharsh> is \o or \0 equivalent to <EOF> or <EOM>? I saw some people writing it after the message, before the session began. So that's way up.
+[15:25:52] <gaurav9822> Hiiiiiiiii
+[15:26:09] <gaurav9822> Lets get started
+[15:26:10] <kushal> vharsh, Nope, using <EOF> or <EOM> will be helpful in the sessions.
+[15:26:10] <gaurav9822> !!!!!!!!
+[15:26:13] <kushal> next
+[15:26:17] <deeksha19> What are the prerequisites for this training?
+[15:26:20] <vharsh> Typing \0 uis easier. <EOF>
+[15:26:34] <kushal> deeksha19, You will need internet and a computer with linux
+[15:26:41] <kushal> A modern linux that is.
+[15:27:06] <deeksha19> thanks
+[15:27:06] <kushal> .link faq
+[15:27:08] <SRvSaha> vharsh: <eof> is the universal way of doing that in IRC meetings
+[15:27:16] <sayan> vharsh: \o is a notation to "hi" (waving hand gesture)
+[15:27:18] <kushal> Please read the faq document.
+[15:27:22] <kushal> next
+[15:27:24] <pritam1122> will we have some interactive sessions?
+[15:27:39] <kushal> pritam1122, almost all sessions are interactive sessions.
+[15:28:03] <surajd> pritam1122, we are having it already!
+[15:28:10] <pritam1122> I mean simultaneuos working on some thing?
+[15:28:20] <kushal> In future yes.
+[15:28:38] <kushal> So few more points to remember:
+[15:28:49] <kushal> Always type full English words on IRC or mails.
+[15:29:02] <kushal> Means no "u", it is you.
+[15:29:46] <kushal> There are a few abbreviations like http://www.ircbeginner.com/ircinfo/abbreviations.html
+[15:30:41] <kushal> The next link is about things to do before asking a question.
+[15:30:44] <kushal> .link questions
+[15:30:48] <kushal> .link question
+[15:31:29] <kushal> Ah, I forgot :(
+[15:32:10] <kushal> .link question
+[15:32:30] <kushal> http://www.catb.org/esr/faqs/smart-questions.html
+[15:32:38] <kushal> Later please go though http://www.catb.org/esr/faqs/smart-questions.html
+[15:33:03] <kushal> After that we have two more documents to read before tomorrow.
+[15:33:36] <sayan> .questions
+[15:33:41] <sayan> .smart
+[15:33:44] <kushal> https://dgplug.org/irclogs/mbuf_1stclass.log
+[15:33:50] <sayan> .question
+[15:33:58] <kushal> https://dgplug.org/irclogs/mbuf_2ndclass.log
+[15:34:41] <kushal> The corresponding presentation links are given in the logs.
+[15:35:26] <kushal> For the first 1-2 days we will go through these communication related notes, and then we will move to next things.
+[15:35:49] <kushal> Please remember this as very important, as most people fail to communicate properly.
+[15:36:05] <kushal> So learning these basic skills will help you life long.
+[15:36:30] <kushal> Now if you have questions please type ! :)
+[15:36:37] <avik> 1
+[15:36:40] <avik> !
+[15:36:40] <pragnavi> Do we have to go thrugh thee above links bbefore next session?
+[15:36:43] <rahuldecoded__> +1
+[15:36:52] <kushal> next
+[15:36:55] <anushil_> !
+[15:37:05] <yASH___> !
+[15:37:36] <kushal> next
+[15:37:40] <anushil_> what is mode (+m) ??
+[15:37:45] <avik> how to hide those == comments of people leaving and comming
+[15:37:47] <pragnavi> !
+[15:38:07] <kushal> anushil_, to stop people talking in the channel
+[15:38:31] <SRvSaha> !
+[15:38:37] <anushil_> how to use it example
+[15:38:43] <kushal> avik, I don't know how to do that in webchat, but when you will use a desktop client, you can remove those in settings.
+[15:39:06] <abk> !
+[15:39:07] <avik> ok thank you
+[15:39:14] <kushal> anushil_, you can not, only the channel operators can use it.
+[15:39:15] <mayurparik> !
+[15:39:15] <kushal> next
+[15:39:20] <yASH___> Can I use any Linux distribution ? I usually work on kali Linux
+[15:39:58] <kushal> yASH_, Yes, you can use any linux distribution. But we generally prefer Fedora.
+[15:40:06] <saru> !
+[15:40:07] <kushal> We think it is the best for developers.
+[15:40:09] <kushal> next
+[15:40:33] <kushal> next
+[15:40:38] <SRvSaha> kushal: Is the bot "batul" totally developed in Python? Can I get the access to the source code ? I know Python. If it is in Python, i want to hack into it .!! email : contact.srvsaha@gmail.com
+[15:40:41] <iKshitij_> !
+[15:40:48] <lambainsaan> !
+[15:41:02] <kushal> SRvSaha, yes, we will show you the code after today's session.
+[15:41:04] <pragnavi> Do we have to go trough those logs before next session?
+[15:41:18] <kushal> pragnavi, yes.
+[15:41:30] <avik> !
+[15:41:33] <kushal> pragnavi, As soon as you read those, you can ask any doubt here.
+[15:41:34] <kushal> next
+[15:41:34] <mayurparik> !
+[15:41:39] <abk> on IRC client on getting to the preferences it quits it alltogether. Any solution for this.
+[15:41:43] <mayurparik> are we going to learn about FOSS in today's session
+[15:41:55] <kushal> abk, What is your client?
+[15:42:02] <priyanka> !
+[15:42:10] <SRvSaha> !
+[15:42:10] <abk> Xchat on gnome
+[15:42:20] <lambainsaan> !
+[15:42:27] <kushal> mayurparik, We will learn about even important thing, how to talk on internet.
+[15:42:34] <kushal> abk, it should not.
+[15:42:41] <kushal> It does not for me.
+[15:42:41] <abk> OS linux kali
+[15:42:55] <mayurparik> great!
+[15:43:05] <kushal> abk, You should use a standard distribution for development.
+[15:43:07] <kushal> next
+[15:43:09] <arthar360> !
+[15:43:22] <saru> should we know python for attending this course??
+[15:43:43] <kushal> saru, it said you are next, so please wait for your turn.
+[15:43:46] <kushal> next
+[15:43:56] <rbajaj_> saru, you will learn python during the course.
+[15:43:56] <saru> should we know python for attending this course??
+[15:44:03] <psusundre> !
+[15:44:11] <pabitra> !
+[15:44:12] <kushal> saru, nope, you will learn it during the sessions.
+[15:44:14] <kushal> next
+[15:44:31] <iKshitij_> I was using xchat. then I switched to HexChat, Now my username/nickname is changed. previous- iKshitij, Now- iKshitij_ . i want to remove iKshitij_ and join as iKshitij
+[15:44:33] <vbhjain> kushal why did you write .link question? what does it mean??
+[15:45:06] <kushal> vbhjain, the batul is supposed to give me the link
+[15:45:09] <kushal> it did not
+[15:45:23] <_indiabhi> !
+[15:45:29] <kushal> next
+[15:45:31] <lambainsaan> Are we going to work on some specific open source project through this training? If yes, then which ones?
+[15:45:51] <kushal> lambainsaan, Nope, people are free to choose anything they want.
+[15:45:52] <kushal> next
+[15:45:55] <shobhit> !
+[15:46:04] <vbhjain> ok fin e!
+[15:46:11] <avik> is there any fedora compatibily layer for windows, so that we dont have to install the whole os , rather use it as an exe app, like bluestacks for android?
+[15:46:14] <vbhjain> *fine!
+[15:46:14] <anushil_> !
+[15:46:33] <kushal> avik, none, but you can install linux on a virtual machine.
+[15:46:41] <kushal> avik, we will provide you the links later.
+[15:46:43] <kushal> next
+[15:46:51] <avik> didnt get it
+[15:47:03] <imack> iKshitij_, as your previous nick is not disconnected at the time of joining through hexchat your 2nd preference of nick is used for connecting by hexchat
+[15:47:17] <rahuldecoded__> !
+[15:47:18] <kushal> avik, There is a way to create another computer (virtual) in your computer, then you can install linux in it, and use it.
+[15:47:24] <kushal> avik, we will show you how later.
+[15:47:28] <surajd> avik, https://www.virtualbox.org/ using this software
+[15:47:53] <iKshitij_> imack then what shuould i do ? Thanks for the reply
+[15:48:06] <kushal> next
+[15:48:09] <surajd> iKshitij_, now you can go out and come in back
+[15:48:17] <srinidhi> !
+[15:48:26] <priyanka> please share the code of batul to everyone..
+[15:48:40] <kushal> priyanka, we will, but only after the session
+[15:48:44] <imack> surajd, +1
+[15:48:53] <kushal> next
+[15:48:55] <SRvSaha> kushal: Whenever I quit XChat or Hexchat and then reopen it after sometime, it starts off with the same start-up window asking for the setting up username and nick and choose the server for connection. Though I have saved the password. Any way out to fix this so that I dont need to give username and nick everytime??
+[15:48:56] <prashaant> avik , are you familiar with virtualization in operating systems ?
+[15:49:21] <kushal> SRvSaha, yes, you can save the details in the session, and also select autoconnect.
+[15:49:34] <kushal> SRvSaha, we will update our docs on how to do this.
+[15:49:40] <kushal> next
+[15:49:41] <lambainsaan> Already answered.
+[15:49:44] <kushal> next
+[15:49:47] <arthar360> In case an intern asks a question and other interns know the answer, should the interns answer it or wait for the instructor to answer?
+[15:49:50] <chshbh> <iKshitij_, http://www.wikihow.com/Register-a-Nickname-on-Freenode
+[15:49:59] sandeepmaity09_ is now known as sandeepmaity09
+[15:50:00] <kushal> arthar360, Anyone can answer :)
+[15:50:06] <kushal> arthar360, No one is intern here.
+[15:50:12] <kushal> Everyone is equal.
+[15:50:20] <ShaswataD> !
+[15:50:20] <arthar360> kushal, Thanks :)
+[15:50:26] <nikhil07> sry i join late
+[15:50:29] <psusundre> I am totally new to Linux and Python. Is it ok?
+[15:50:32] <kushal> Other than a few people who has op power to kick others from the channel :)
+[15:50:38] <kushal> psusundre, yes.
+[15:50:39] <kushal> next
+[15:50:40] <sayan> psusundre: yes
+[15:50:44] <kushal> next
+[15:50:49] <pabitra> so we need to go through the two logs of previous sessions before tomorrow's session ??what else ??? what is the "bot" SRvSaha referring to  ?? what is d code for ??
+[15:51:00] <_indiabhi> batul didnot give the link, is it a bug or an unusual error?
+[15:51:14] <kushal> pabitra, So first, there is no d, there is only the.
+[15:51:23] <pabitra> ph.. im sorry
+[15:51:26] <Rich99> !
+[15:51:26] <pabitra> oh
+[15:51:30] <kushal> pabitra, I also gave another link about asking smart questions.
+[15:51:31] <SRvSaha> pabitra: batul is basically a bot : Technically speaking a script written in Python to automate task
+[15:51:52] <kushal> pabitra,^^ everyone wants to see the code for this bot, we will share it at the end.
+[15:52:09] <kushal> next
+[15:52:17] <pabitra> ok got it...
+[15:52:17] <punarvasu510> Hi all!
+[15:52:23] <kushal> next
+[15:52:23] <surajd> psusundre, use ! before asking questions
+[15:52:34] <shobhit> already answered
+[15:52:36] <kushal> next
+[15:52:40] <anushil_> i want to build my own batul
+[15:52:53] <anushil_> how can i do that
+[15:52:59] <psusundre> sorry but I used
+[15:53:02] <FazlurRahman> Hi kushal sir i am late
+[15:53:16] <kushal> anushil_, you will learn that in the later sessions.
+[15:53:22] <SRvSaha> pabitra: So Kushal has written the script and hence the bot which works as his assistance when the queue of questions comes in. When everyone keeps pressing ! ,it keeps track of that in a wueue and with every next command from kushal the queue is update
+[15:53:33] <kushal> FazlurRahman, no problem, and you don't have to call anyone sir or madam on internet.
+[15:53:43] <kushal> next
+[15:53:46] <rahuldecoded__> how long this entire training will take? Will you be in touch after this training?
+[15:53:50] <ritesh> !
+[15:53:58] <zindaHUN> who are you?
+[15:54:04] <abhishekg5> anushil_:  You'll be able to that once you follow the training sessions
+[15:54:15] <kushal> rahuldecoded__, we actually never end the training, people generally become part of dgplug through this.
+[15:54:23] <kushal> rahuldecoded__, the sessions goes for 3 months.
+[15:54:26] <kushal> next
+[15:54:28] <srinidhi> I somehow got disconnected a few minutes ago, but no alert in xchat(I thought everyone were quiet). How to test the connection? Also making batul op seems a good move to me!
+[15:54:29] <nikhil07> where i can get the log of todays session
+[15:54:49] <kushal> nikhil07, you will get it after the session.
+[15:54:52] <pabitra> |!
+[15:54:55] <sayan> srinidhi: you can type /ping
+[15:54:56] <kushal> srinidhi, type /ping
+[15:55:03] <kushal> next
+[15:55:06] <ShaswataD> Kushal, What is the meaning of +1 as being used by everyone and you?
+[15:55:18] <prashaant> nikhil07, you can start logging in Xchat : goto settings  > preferences >> logging
+[15:55:23] <kushal> ShaswataD, just  a way to say I agree.
+[15:55:28] <kushal> next
+[15:55:29] <Rich99> @kushal My name is Mayank Gupta and i'm the younger brother of Shreyank Gupta (shrink). He told me to inform you.
+[15:55:31] <ShaswataD> Roger
+[15:55:36] <SRvSaha> ShaswataD: That +1 means that the user is satisfied with your answer
+[15:55:37] <tuxmaniac> Rich99: :)
+[15:55:40] <kushal> Rich99, ah, nice :)
+[15:55:47] <sayan> Rich99: welcome :)
+[15:55:51] <Rich99> thanks
+[15:55:57] <ritesh> I am using Ubuntu 16.04, should I change it to Fedora 23....???
+[15:56:12] <vharsh> ritesh, You may, sometime later
+[15:56:17] <surajd> ritesh, that will be a good move!
+[15:56:23] <kushal> next
+[15:56:25] <nikhil07> should i have to learn python
+[15:56:30] <iyogeshjoshi> !
+[15:56:36] <nikhil07> i dont know python
+[15:56:42] <anushil_> !
+[15:56:47] <rbajaj_> nikhil07, you shall learn it during the course.
+[15:56:47] <kushal> nikhil07, You will, go slow. There are many other things to learn.
+[15:56:48] <kushal> next
+[15:56:59] <sayan> next
+[15:57:09] <kushal> next
+[15:57:12] <iyogeshjoshi> kushal: Wh fedora is preferred over any other unix system
+[15:57:19] <iyogeshjoshi> why*
+[15:57:33] <anushil_> when i was using fedora i was always stuck in infinite login loop
+[15:57:37] <kushal> iyogeshjoshi, We think it is a better distribution for developers.
+[15:57:45] <surajd> kushal, +1
+[15:57:48] <ShaswataD> +1
+[15:57:51] <SpEcHiDe> !
+[15:57:54] <iyogeshjoshi> kushal: any particular reason?
+[15:57:56] <rbajaj_> +1
+[15:58:05] <SRvSaha> anushil_: I too faced the same problem. So I am using KUBUNTU 14.04
+[15:58:05] <kushal> iyogeshjoshi, A lot, can explain you later :)
+[15:58:08] <kushal> next
+[15:58:13] <aghadge> +1
+[15:58:16] <iyogeshjoshi> kushal: ok :)
+[15:58:24] <pabitra> !
+[15:58:24] <sdas> !
+[15:58:27] <kushal> What is infinite login?
+[15:58:38] <FazlurRahman> Kushal :In which days of week the sessions are organised?
+[15:58:52] <PrashantJ> !
+[15:58:55] <sayan> FazlurRahman: that would be told at the end of each session
+[15:58:59] <SRvSaha> kushal: It's kind of logging issue due to some sort of high graphics.
+[15:59:02] <kushal> FazlurRahman, before asking a question you should type ! and then wait for your turn to speak.
+[15:59:07] <anushil_> if i enter my password ,it ask agian and again to enter the password
+[15:59:08] <iyogeshjoshi> kushal: infinite loop, I guess when their desktop manager fails to load
+[15:59:11] <prashaant> !
+[15:59:22] <kushal> Use a different desktop manager :)
+[15:59:27] <kushal> We can help you in that.
+[15:59:29] <kushal> next
+[15:59:34] <anushil_> always have to start the pc by pressing ctrl+alt+f2 and then enter xstart
+[15:59:36] <SpEcHiDe> I wanted to ask Why is Fedora preferred for Open Source Contributions? For me I personally liked Arch Linux and kali2 better. They have nice GUI compared to Fedora 22
+[16:00:07] <kushal> SpEcHiDe, you will learn slowly during the sessions.
+[16:00:11] <kushal> next
+[16:00:13] <SRvSaha> iyogeshjoshi: I have tried with XORG and all. No good.! Had to revert back to Kubuntu. Even Ubuntu had this problem in my laptop HP Envy 14 j008TX
+[16:00:13] <sdas> So we will learn about packaging also?
+[16:00:18] <sandeepmaity09> !
+[16:00:29] <kushal> sdas, parts of it, yes.
+[16:00:32] <PrashantJ> I already have started with Python. How much of it will be covered here and briefly how?
+[16:00:33] <pabitra> I think I lost some conversations in between... Don't know whether there was connection break or something else...
+[16:00:37] <SRvSaha> kushal: Tried with all desktop managers, no help. :(
+[16:00:44] <surajd> SRvSaha, even Kubuntu runs on XOrg right?
+[16:00:59] <kushal> PrashantJ, a lot of it.
+[16:01:04] <kushal> next
+[16:01:07] <kushal> next
+[16:01:09] <kushal> next
+[16:01:10] <SpEcHiDe> pabitra: I think it is better to use IRCCloud. they backup all the chats even when we are offline.
+[16:01:11] <sandeepmaity09> I am using ubuntu 14.04 am i going to have some problem in future sessions ?
+[16:01:35] <nikhil07> yup irccloud is best
+[16:01:41] <SRvSaha> surajd: No. It's KDE based. Plasma
+[16:01:48] <psusundre> !
+[16:01:50] <surajd> SRvSaha, ok
+[16:01:54] <kushal> next
+[16:01:54] <sayan> sandeepmaity09: no
+[16:02:22] <psusundre> Are Ubuntu and Fedora are same?
+[16:02:30] <pabitra> @SpEcHiDe... IRCloud is another app like Hexchat ??
+[16:02:36] <prashaant> I installed fedora 22 but found it difficult for beginner . hope this fear goes away during sessions
+[16:02:41] <kushal> psusundre, Nope
+[16:02:47] <kushal> next
+[16:02:49] <iyogeshjoshi> psusundre: NO they are different
+[16:02:58] <surajd> pabitra, nope its a IRC server hosted online
+[16:03:05] <psusundre> In which manner?
+[16:03:05] <sayan> prashaant: yes, it will slowly fade away
+[16:03:07] <surajd> pabitra, where you can create account and all
+[16:03:25] <sayan> prashaant: https://fedoraproject.org/wiki/Comparison_to_other_distributions
+[16:03:29] <pabitra> So I have my my IRC account on freenode
+[16:03:38] <surajd> psusundre, their kernel is same operating system on top is different
+[16:03:41] <pabitra> DO i need to shift to IRCCloud ?
+[16:03:49] <sayan> psusundre https://fedoraproject.org/wiki/Comparison_to_other_distributions
+[16:03:52] <SpEcHiDe> pabitra: please visit https://www.irccloud.com It is a web application. You do not have to install on your system. The code is here: https://github.com/irccloud
+[16:03:53] <kushal> psusundre, first read http://www.catb.org/esr/faqs/smart-questions.html and then come back and ask (if you still need that).
+[16:04:02] <surajd> pabitra, not a necessary
+[16:04:32] <surajd> s/a//
+[16:04:34] <pabitra> thanks surajd SpEcHiDe
+[16:04:44] <Love_Guru_> !
+[16:04:48] <sayan> next
+[16:04:56] <punarvasu510_> !
+[16:05:08] <sayan> next
+[16:05:16] <Love_Guru_> Kushal,  Are we allowed to talk,interact with other members when the Q/A session is going on?
+[16:05:27] <punarvasu510_> is fedora preferred to ubuntu? If yes, why?
+[16:05:30] <kushal> Love_Guru_, nope.
+[16:05:30] <sanchitkum> !
+[16:05:32] <FazlurRahman> !
+[16:05:33] <pabitra> |
+[16:05:35] <pabitra> !
+[16:05:37] <Ultimatepritam> !
+[16:05:41] <kushal> punarvasu510_, Yes.
+[16:05:53] <kushal> punarvasu510_, You will learn why slowly during the sessions.
+[16:05:54] <kushal> next
+[16:05:56] <prashaant> !
+[16:05:57] <kushal> next
+[16:06:04] <sanchitkum> I joined late, will today's log be shared after session?
+[16:06:05] <rabi> !
+[16:06:09] <kushal> sanchitkum, Yes.
+[16:06:11] <sdas> !
+[16:06:17] * kushal will try to do better in that. 
+[16:06:18] <sayan> next
+[16:06:21] <FazlurRahman> My semester exams are going on so can join after 27of this month
+[16:06:24] <pabitra> any smart way to see the name letter by letter and type name
+[16:06:36] <kushal> FazlurRahman, Okay, you can always read the logs in free time.
+[16:06:36] <mr-karan> pabitra: use tab
+[16:06:37] <pabitra> if i want to refer to someone ??
+[16:06:49] <kushal> pabitra, use TAB
+[16:06:53] <kushal> next
+[16:06:57] <pabitra> oh... amazing... thanks mr-karan
+[16:06:58] <Ultimatepritam> kushal, do we have to setup github accounts ?
+[16:07:01] <mr-karan> type initial 2-3 letters and press TAB pabitra
+[16:07:02] <pabitra> :)
+[16:07:09] <kushal> Ultimatepritam, not today, but it future.
+[16:07:14] <kushal> next
+[16:07:16] <prashaant> sayan, kushal what is  time-based release model ?
+[16:07:21] <Ultimatepritam> Okay, thanks :)
+[16:07:41] <lambainsaan> mr-karan: +1
+[16:08:15] <Ultimatepritam> !
+[16:08:26] <SpEcHiDe> prashaant: https://en.wikipedia.org/wiki/Release_early,_release_often
+[16:08:33] <kushal> next
+[16:08:38] <priyanka> lambainsaan, what means +1
+[16:08:38] <c0mrad3> Roll Call : Tummala Dhanvi
+[16:08:40] <rabi> sir what is the basic application of python programming
+[16:08:40] <sayan> prashaant: following a release date to release
+[16:08:56] <kushal> rabi, Fist, you don't have to call anyone sir.
+[16:09:02] <sayan> next
+[16:09:04] <sdas> Do we have a guideline for use of proprietary Software in Linux? Like somewhere have read about Korora a fedora distribution that includes proprietary software by default programs.
+[16:09:23] <code_geek> priyanka, +1 means "agreed"
+[16:09:23] <mhalano> rabi, You don't have to know for sure if is a sir or a madam.
+[16:09:30] <lambainsaan> priyanka: mr-karan helped me with his answer. So I gave him an up vote it.
+[16:09:37] <rabi> ok
+[16:09:57] <jtFROMjec> clear
+[16:10:02] <kushal> rabi, Python is a general language, we can use it for system related things, web applications etc.
+[16:10:03] <kushal> next
+[16:10:05] <Ultimatepritam> kushal, What are the INITIAL things to do after installing fedora? As i am moving from Ubuntu.
+[16:10:24] <ritesh> +1
+[16:10:24] <kushal> Install IRC client :)
+[16:10:25] <kushal> next
+[16:10:29] <priyanka> code_greek and lambainsaan: okay
+[16:10:30] <rabi> such as
+[16:10:34] <sdas> !
+[16:10:42] <surajd> sdas, there is no guideline as such, but licenses
+[16:10:42] <Ultimatepritam> kushal, okay :)
+[16:10:45] <punarvasu510_> !
+[16:10:51] <vharsh> rabi, xhcat hexchat
+[16:10:58] <surajd> sdas, of what can run where
+[16:11:16] <sdas> surajd thanks
+[16:11:38] <abstatic> !
+[16:11:45] <sayan> sdas: well, there isn't any restrictions over use
+[16:11:46] <kushal> next
+[16:11:46] <anushil_> rabi: pidgin
+[16:11:52] <sdas> We have to use fedora GNOME ?
+[16:11:56] <kushal> rabi, xchat
+[16:12:02] <surajd> sdas, its only Fedora that by deafult won't come with any propreitary software installed, you can choose to do what you want
+[16:12:04] <vharsh> sdas, use anything u like
+[16:12:06] <kushal> sdas, you can use KDE too.
+[16:12:10] <sayan> sdas: not necessary
+[16:12:11] <vharsh> s/u/you
+[16:12:12] <rohan_h> !
+[16:12:16] <sdas> ok
+[16:12:17] <kushal> next
+[16:12:19] <pabitra> sometimes wen there is no discussion, it seems as if Im disconnected... How to ensure whether I'm disconnected or there is no converstaions going on currently in the group ??
+[16:12:20] <punarvasu510_> How do we avoid this quitting and rejoining of a user? why does it happen?
+[16:12:32] <sayan> pabitra: use /ping to check
+[16:12:34] <vharsh>  type /ping
+[16:12:37] <pabitra> sorry again for wen instead of when
+[16:12:51] <rabi> !
+[16:12:56] <warlord77> !
+[16:12:58] <kushal> next
+[16:13:00] <abstatic> will we also get some assignments in this training to work with ?
+[16:13:08] <kushal> abhi2016, yes
+[16:13:18] <sayan> abstatic: yes
+[16:13:25] <abstatic> okay
+[16:13:26] <kushal> First assignment is to read those 3 links given today.
+[16:13:37] <Rich99> !
+[16:13:38] <kushal> Read them before coming to the session tomorrow.
+[16:13:40] <kushal> next
+[16:13:44] <rohan_h> kushal,sayan Can i send a personal message to you if i have a specific doubt?
+[16:13:53] <kushal> rohan_h, you should ask here.
+[16:13:53] <abstatic> It would be great if we get them in emails as well.
+[16:13:56] * fhackdroid says hi
+[16:14:03] <kushal> Then others can read also.
+[16:14:07] <sayan> rohan_h: good to ask in public first before asking in PM
+[16:14:11] <code_geek> punarvasu510_, you can disable these quitting and rejoining messages in the client settings
+[16:14:11] <rohan_h> okay kushal
+[16:14:24] <kushal> abstatic, them == ?
+[16:14:30] <rabi> can you tell me how to load two os in one computer
+[16:14:30] <sayan> rohan_h: but it is encouraged to ask here because other will reply and get their doubts clear
+[16:14:42] <kushal> abhi2016, One has to come to the session to find the home task.
+[16:14:56] <avik> code_geek:  +1
+[16:15:00] <kushal> rabi, can not be done on IRC,google for it.
+[16:15:04] <kushal> next
+[16:15:07] <shobhit> !
+[16:15:08] <ShaswataD> rabi, GIYF
+[16:15:11] <abstatic> kushal, them == reading assignments
+[16:15:27] <sayan> next
+[16:15:31] <kushal> abstatic, Okay.
+[16:15:50] <sayan> next
+[16:15:52] <Rich99> can you send the three links about what we have to read !! again :(
+[16:16:11] <warlord77> kushal, I will be free after  21st so can i get the assignments via mail ?
+[16:16:19] <ShaswataD> Rich99, check chat logs after the session.
+[16:16:26] <rbajaj_> Rich99, you can check for it in the logs.
+[16:16:27] <sayan> warlord77: you can check the logs
+[16:16:29] <punarvasu510_> +1 Rich99
+[16:16:30] <Rich99> ShaswataD, +1
+[16:16:46] <sayan> next
+[16:16:52] <code_geek> Rich99, http://www.catb.org/esr/faqs/smart-questions.html    https://dgplug.org/irclogs/mbuf_1stclass.log   https://dgplug.org/irclogs/mbuf_2ndclass.log
+[16:16:54] <lambainsaan> Rich99:  https://dgplug.org/irclogs/mbuf_2ndclass.log
+[16:16:56] <lambainsaan> https://dgplug.org/irclogs/mbuf_1stclass.log
+[16:16:58] <lambainsaan> http://www.catb.org/esr/faqs/smart-questions.html
+[16:17:02] <punarvasu510_> Thanks
+[16:17:10] <Rich99> code_geek +1
+[16:17:17] <Rich99> lambainsaan, +1
+[16:17:23] <shobhit> will we use  terminal  in future classes??
+[16:17:28] <kushal> next
+[16:17:32] <sayan> shobhit: yes
+[16:17:33] <kushal> Good.
+[16:17:55] <vharsh> !
+[16:18:10] <sayan> next
+[16:18:12] <vharsh> kushal, Can we make commonly asked question in a wiki? To discourage people from asking repetitive questions each year.
+[16:18:30] <prashaant> vharsh, +1
+[16:18:35] <vharsh> I don't condemns it, though. It 'll make your task easier
+[16:18:36] <abhi2016> +1
+[16:18:38] <ShaswataD> vharsh, +1
+[16:18:38] <kushal> vharsh, I have given that link too
+[16:18:41] <yajushi> vharsh, +1
+[16:18:42] <grepRoot> +1
+[16:18:42] <yASH___> vharsh+1
+[16:18:44] <rohan_h> vharsh , +1
+[16:18:51] <shauryak_3> +1
+[16:18:53] <vharsh> Things like Ubunntu vs Arch vs Fed vs xyz
+[16:18:54] <Rich99> vharsh, +1
+[16:18:57] <kushal> vharsh, we do have FAQ.
+[16:19:05] <kushal> vharsh, and we update it with every year.
+[16:19:13] <vharsh> wiki.dgplug.org is down
+[16:19:15] <chshbh> vharsh, +1
+[16:19:25] <kushal> vharsh, yes, we removed it.
+[16:19:30] <vharsh> ok
+[16:19:41] <pabitra> !
+[16:19:45] <vharsh> <eom>
+[16:19:55] <kushal> vharsh, http://summertraining.readthedocs.io/en/latest/faq.html
+[16:19:58] <sayan> next
+[16:20:05] <vharsh> sorry
+[16:20:08] <pabitra> I guess today's session has ended
+[16:20:17] <kushal> pabitra, Not yet but will be
+[16:20:26] <pabitra> no reply !!!
+[16:20:35] <punarvasu510_> H!
+[16:20:36] <punarvasu510_> !
+[16:20:38] <kushal> next
+[16:20:50] <pabitra> @sayan,
+[16:21:04] <ShaswataD> !
+[16:21:08] <shobhit> !
+[16:21:12] <kushal> next
+[16:21:14] <kushal> next
+[16:21:16] <kushal> next
+[16:21:17] <punarvasu510_> How do we know our number in the queue (to ask questions)
+[16:21:18] <ShaswataD> From when will start getting our hands dirty with real work?
+[16:21:33] <kushal> punarvasu510_, keep giving attention to IRC.
+[16:21:37] <abstatic> !
+[16:21:42] <sayan> next
+[16:21:47] <kushal> ShaswataD, learning how to speark/write is very real work.
+[16:21:47] <punarvasu510_> so that when someone says next we know who is supposed to ask
+[16:21:57] <surajd> ShaswataD, even learning to ask questions is getting hands dirty
+[16:22:07] <rbajaj_> surajd, +1
+[16:22:13] <punarvasu510_> one needn't mention the nickname
+[16:22:14] <ShaswataD> surajd+1
+[16:22:16] <SpEcHiDe> kushal: +1
+[16:22:19] <abstatic> how you people manage so many links ? Do you maintain a document or something ?
+[16:22:31] <kushal> abstatic, Yes
+[16:22:42] <nikhil07> nope
+[16:22:42] <SpEcHiDe> kushal: where?
+[16:22:43] <kushal> next
+[16:22:45] <prashaant> abstatic, +1
+[16:22:51] <kushal> SpEcHiDe, In various places.
+[16:22:51] <code_geek> punarvasu510_, the bot batul mentions your name. he will tell when to ask questions by referring to your nick
+[16:22:58] <kushal> We remember a few in head.
+[16:23:08] <kushal> code_geek, Thanks for the explanation.
+[16:23:30] <code_geek> Welcome :)
+[16:23:32] <prashaant> kushal, how do you keep so many links organized by topics etc. which service do you use ?
+[16:23:36] <punarvasu510_> thanks
+[16:23:45] <sayan> SpEcHiDe: quick google also helps :)
+[16:23:49] <shobhit> already got the answer
+[16:23:56] <prashaant> !
+[16:24:04] <sayan> next
+[16:24:08] <kushal> prashaant, I don't use any application for the same.
+[16:24:09] <kushal> next
+[16:24:42] <anjalipardeshi> !
+[16:24:50] <sayan> prashaant: a simple text file does wonder :)
+[16:24:54] <sayan> next
+[16:25:06] <anjalipardeshi> if I am not able to attend session where i will get logs link
+[16:25:15] <punarvasu510_> +1
+[16:25:26] <surajd> prashaant, you can create your own though!
+[16:25:26] <sayan> anjalipardeshi: dgplug.org/irclogs/
+[16:25:34] <kushal> anjalipardeshi, Come online here, and ask for the link to the logs :)
+[16:25:36] <anjalipardeshi> sayan, thankyou
+[16:25:47] <kushal> anjalipardeshi, It is thank you.
+[16:26:03] <anushil_> !
+[16:26:06] <SpEcHiDe> sayan: I do not think that this "https://dgplug.org/irclogs/" is updated after 2014. :(
+[16:26:10] <shauryak_3> !
+[16:26:13] <anjalipardeshi> sorry kushal and thank you
+[16:26:18] <kushal> So one point, if you see someone is typing sms language or similar, please ask them to fix :)
+[16:26:24] <nikhil07> tried many time in contributing diff open source but i give while cloning the code base
+[16:26:25] <kushal> anjalipardeshi, You are welcome :)
+[16:26:33] <sayan> SpEcHiDe: yes, 2015 logs would be uploaded :)
+[16:26:37] <kushal> nikhil07, No problem, we will help you.
+[16:26:45] <aman_> please tell me about the topic of today class
+[16:26:47] <fhackdroid> prashaant, you can use zim wiki too
+[16:26:52] <kushal> Let me do a ending roll call and then end the session.
+[16:26:56] <kushal> Roll Call
+[16:26:58] <sayan> Also, it is suggested to stay online even when there are no sessions going on
+[16:27:00] <iyogeshjoshi> Yogesh Joshi
+[16:27:02] <lambainsaan> Rhitik Bhatt
+[16:27:03] <code_geek> Shantanu Acharya
+[16:27:04] <abstatic> Abhishek Shrivastava
+[16:27:04] <arthar360> Atharva Deshmukh
+[16:27:05] <ShaswataD> Shaswata Dutta
+[16:27:06] <SpEcHiDe> Shrimadhav U K
+[16:27:06] <prasant> Prasant Kumar Rai
+[16:27:07] <rbajaj_> Rahul Bajaj
+[16:27:07] <mitra00> Shubhodeep Mitra
+[16:27:08] <surajd> Suraj Deshmukh
+[16:27:11] <fhackdroid> Farhaan Bukhsh
+[16:27:11] <aman_> Aman Kumar
+[16:27:12] <abk> Abheek B
+[16:27:13] <Ultimatepritam> Pritam Mondal
+[16:27:13] <JRodDynamite> Jason Estibeiro
+[16:27:14] <grepRoot> Gourav Chawla
+[16:27:14] <srinidhi> Srinidhi R
+[16:27:14] <Rnarwade> Rushiprasad Narwade
+[16:27:16] <sayan> Sayan Chowdhury
+[16:27:16] <prashaant> Prashant Sharma
+[16:27:17] <sdas> Subhradip Das
+[16:27:17] <susenj> Neeraj Kumar
+[16:27:17] <prabhatsharma> prabhat sharma
+[16:27:18] <aman935> Aman Singh
+[16:27:18] <yASH___> Yashwanth M
+[16:27:18] <rohan_h> Rohan Hazra
+[16:27:18] <shauryak_3> Shaurya Kalia
+[16:27:18] <PrashantJ> Prashant Jamkhande
+[16:27:19] <thisisashwani> Ashwani Pandey
+[16:27:20] <SRvSaha> Saurav Saha
+[16:27:20] <mayurparik> Mayur Parik
+[16:27:21] <shobhit> shobhit kumar
+[16:27:22] <tejasgadsing> Tejas Gadsing
+[16:27:23] <indiabhi> Abhishek Rai
+[16:27:23] <tabrez> tabrez khan
+[16:27:23] <sandeepmaity09> Sandeep Maity
+[16:27:24] <psusundre> Pradeep Susundre
+[16:27:24] <punarvasu510_> Alekhya Vellanki
+[16:27:25] <snarwade> Suraj Narwade
+[16:27:25] <suniva> Suniva Priyadarshini
+[16:27:26] <vbhjain> vaibhav jain
+[16:27:26] <d1ndra> Indranil Dutta
+[16:27:27] <gkadam> Ganesh Kadam
+[16:27:28] <sandy_> sandeep kumar choudhary
+[16:27:29] <gobinda_> gobinda akhuli
+[16:27:29] <anjalipardeshi> Anjali Pardeshi
+[16:27:30] <Rich99> Mayank Gupta
+[16:27:32] <jrgnmonk> Aniket Khisti
+[16:27:35] <D1mz> Aditya Bayana
+[16:27:36] <amey> Amey Jain
+[16:27:38] <rajalokan> Alok Kumar (*missed opening roll call*)
+[16:27:41] <mupadhye> Madhuri Upadhye
+[16:27:41] <nishapoyarekar> Nisha Poyarekar
+[16:27:42] <avik> Avik Mukherjee
+[16:27:43] <jtFROMjec> jatin beohar
+[16:27:43] <yajushi> Yajushi Srivastava
+[16:27:47] <buvanesh_kumar> Buvanesh Kumar
+[16:27:49] <smdeep> Sudeep Mukherjee
+[16:27:49] <gumil> Agung gumilang
+[16:27:54] <madhuri> madhuri muley
+[16:27:56] <akash23> Akash Agarwal
+[16:27:57] <akshay_CV> Akshay cv
+[16:28:01] <abhi2016> Abhinandan B
+[16:28:02] <Love_Guru_> Akshay Mane
+[16:28:03] <pabitra> PABITRA PATI
+[16:28:08] <shashank> Shashank Lochan
+[16:28:11] <rahuldecoded__> Rahul Bhattacharjee
+[16:28:15] <sanchitkum> Sanchit Kumar
+[16:28:18] <anushil_> Anushil Kumar
+[16:28:19] <sumantro> Sumantro Mukherjee
+[16:28:21] <neha_> Neha Unavane
+[16:28:21] <priyanka> priyanka sharma
+[16:28:29] <vharsh> Harsh Vardhan
+[16:28:36] <hiro_dev> Abhishek Goswami
+[16:28:40] <ritesh> Ritesh Mukim
+[16:28:43] <deeksha19> Deeksha Aruloli
+[16:28:49] <nikhil07> Nikhil Arya
+[16:28:50] <imack> Mahendra Yadav
+[16:28:53] <ksaikiranr> K Sai Kiran
+[16:29:07] <Rehan> Rehan Khan
+[16:29:07] <tbhosale> Tejshree bhosale
+[16:29:17] <abhishekg5> Abhishek Gupta
+[16:29:38] <real56> Varsha R
+[16:29:41] <ankushg07> Ankush Goyal
+[16:29:45] <prasanth> prasanth
+[16:30:22] <FazlurRahman> Fazlur Rahman
+[16:30:22] <chshbh> Avinash Madhukar
+[16:30:26] <kushal> endclass
+[16:30:26] [## Class Ended at Sun Jun 19 16:30:26 2016 ##]

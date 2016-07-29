@@ -1,0 +1,409 @@
+[15:01:54] [## Class Started at Wed Jun 22 15:01:54 2016 ##]
+[15:01:54] <kushal> startclass
+[15:01:56] <gkadam> Ganesh Kadam
+[15:01:56] <mhalano> Hgupta: Now I know you password :)
+[15:02:02] <gobinda> Gobinda akhuli
+[15:02:03] <skarale> snehal karale
+[15:02:05] <suniva> Suniva Priyadarshini
+[15:02:09] <Richard99> Mayank Gupta
+[15:02:10] <pabitra> Pabitra Pati
+[15:02:11] <mhalano> Marcos H. Alano
+[15:02:11] <warlord77> Sahil Joseph
+[15:02:12] <akshays> Akshay Shipurkar
+[15:02:12] <rahul_bajaj> rahul bajaj
+[15:02:12] <a2batic> Kanika Murarka
+[15:02:12] <iyogeshjoshi> Yogesh Joshi
+[15:02:12] <priyanka> Priyanka Sharma
+[15:02:13] <rangzen> Tenzin Kunkyab
+[15:02:15] <anushil051> Anushil Kumar
+[15:02:16] <dep123k> Deepanshu Kapoor
+[15:02:17] <chirath> Chirath R
+[15:02:18] <rohan_h> Rohan Hazra
+[15:02:18] <sdas> Subhradip Das
+[15:02:18] <jargonmonk> Aniket Khisti
+[15:02:19] <madhuri> Madhuri Muley
+[15:02:20] <inertfluid> Joel Estibeiro
+[15:02:20] <tejasgadsing> tejas gadsing
+[15:02:20] <LambaInsaan> Rhitik Bhatt
+[15:02:20] <cosmologist10> shweta suman
+[15:02:20] <gumil> Agung Gumilang
+[15:02:21] <ketank> ketan kumar
+[15:02:21] <kunalk> Kunal Kumar
+[15:02:21] <iKshitij> Kshitij
+[15:02:22] <mahesh5_> Mahesh Gahlot
+[15:02:22] <PrashantJ> Prashant Jamkhande
+[15:02:22] <ak_d> Akhilesh Dhaundiyal
+[15:02:23] <vharsh> Harsh Vardhan
+[15:02:23] <vbhjain> Vaibhav jain
+[15:02:25] <amitkumarj> Amit Kumar Jaiswal
+[15:02:25] <sneo> Sarah Masud
+[15:02:26] <shobhitupadhyay> shobhit upadhyay
+[15:02:26] <rahuldecoded_> Rahul Bhattacharjee
+[15:02:26] <h4xr> Saurabh Badhwar
+[15:02:28] <chshbh> AVINASH MADHUKAR
+[15:02:29] <aman_> Aman Kumar
+[15:02:29] <yASH> Yashwanth M
+[15:02:30] <avik> Avik Mukherjee
+[15:02:31] <amitk_> Amit Kokitkar
+[15:02:33] <poonam> poonam
+[15:02:34] <buvanesh_kumar> Buvanesh Kumar
+[15:02:35] <aman935> Aman Singh
+[15:02:42] <sandy_> sandeep kumar choudhary
+[15:02:46] <thisisashwani> Ashwani Pandey
+[15:02:50] <Hgupta> harshit gupta
+[15:02:51] <pragnavi> Pragnavi
+[15:02:53] <Guest76896> Abheek
+[15:03:02] <AndroUser> Naomi
+[15:03:23] <shaswata> Shaswata Dutta
+[15:03:28] <moizsajid_> Moiz Sajid
+[15:03:29] <SpEcHiDe> Shrimadhav U K
+[15:03:31] <himanshutechy> Himanshu Sharma
+[15:03:33] <gunjan> Gunjan
+[15:03:35] <nishapoyarekar> Nisha Poyarekar
+[15:03:37] <Krishna> Krishna Biradar
+[15:03:40] Guest76896 is now known as abk1
+[15:03:41] <prabhat> Prabhat Sharma
+[15:03:48] <snarwade> Suraj Narwade
+[15:04:03] <D1mz> Aditya Bayana
+[15:04:09] <snarwade> fhackdroid, I will do it in next revision
+[15:04:18] <abhishekg5> Abhishek Gupta
+[15:04:22] <kushal> clearqueue
+[15:04:23] <SRvSaha> Saurav Saha
+[15:04:27] <code_geek> Shantanu Acharya
+[15:04:58] <kushal> Questions about FHS/
+[15:04:59] <kushal> ?
+[15:05:24] <satya4ever> Satyajit Bulage
+[15:05:30] <ananthakrishnan> Ananthakrishnan H
+[15:05:30] <pabitra> !
+[15:05:33] <amitkumarj> FHS??
+[15:05:39] <kushal> next
+[15:05:46] <pabitra> why library is there in linux
+[15:05:48] <D1nz> Dinesh
+[15:06:02] <pabitra> if user by mistakely changes any lib file
+[15:06:05] <warlord77> amitkumarj, http://www.pathname.com/fhs/pub/fhs-2.3.html
+[15:06:11] <pabitra> that might crash the whole system
+[15:06:55] <kushal> pabitra, Yes, that is why only root or any other admin can change the /lib content.
+[15:07:06] <cosmologist10> !
+[15:07:12] <anushil051> !
+[15:07:17] <pabitra> yes,... even an user can log in as root and change it
+[15:07:36] <pabitra> but as in case of windows the library files are either encrypted or hidden
+[15:07:52] <Richard99> mostly hiden
+[15:07:57] <Richard99> *hidden
+[15:07:59] <kushal> pabitra, You can search about shared libraries to understand more.
+[15:08:08] <juggernaut451> ashutosh kumar singh
+[15:08:12] <pabitra> so from security prospective i guess exposeure of lib to users is nt safe
+[15:08:19] <pabitra> ok.. thanks
+[15:08:35] <kushal> pabitra, As root you have to be very careful
+[15:08:40] <kushal> pabitra, That is why only a very few people get sudo/root access.
+[15:08:41] <kushal> next
+[15:08:44] <cosmologist10> Why mercurial is made if we had git already available and difference between git and mercural?
+[15:08:57] <cosmologist10> mercurial*
+[15:09:22] <kushal> cosmologist10, The same reason why there is Audi and Ferrari.
+[15:09:22] <fhackdroid> roll call: Farhaan Buhksh
+[15:09:23] <warlord77> !
+[15:09:29] <rahuldecoded_> pabitra "Great Power come with great responsibilities"
+[15:09:34] <himanshutechy> !
+[15:09:39] <dhritishikhar> Dhriti Shikhar
+[15:09:39] <kushal> cosmologist10, For the second part of the question use google.com
+[15:09:40] <kushal> next
+[15:09:43] <anushil051> exactly what does it means by variable data files???
+[15:09:54] <priyanka> cosmologist10,  what is mercurial and git?
+[15:10:04] <warlord77> What is the benefit of mercurial/bitbucket over git ?
+[15:10:06] <kushal> anushil051, Things which can change when a program runs.
+[15:10:17] <rahul_bajaj> priyanka, these are version control systems.
+[15:10:20] <aman935> !
+[15:10:26] <kushal> warlord77, You are asking questions when you are not supposed to.
+[15:10:35] <kushal> warlord77, Also ask the same to google.com
+[15:10:55] <priyanka> rahul_bajaj, thankyou
+[15:10:57] <thisisashwani> cosmologist10: and btw mercurial came before github! :P
+[15:11:02] <kushal> warlord77, even before that read the how to ask smart questions article"
+[15:11:02] <iyogeshjoshi> priyanka: mercurial and git are version control system, for more detail use google
+[15:11:03] <kushal> next
+[15:11:04] <warlord77> kushal, sorry yup i will  do that
+[15:11:13] <kushal> next
+[15:11:18] <himanshutechy> it is always good to learn new technologies but
+[15:11:27] <kushal> but?
+[15:11:29] <priyanka> iyogeshjoshi,  thanks.
+[15:11:36] <himanshutechy> python isa very effective way of doing things
+[15:12:02] <kushal> himanshutechy, Python programming language is old.
+[15:12:02] <himanshutechy> but if we talk about the market what can anyone expect in india
+[15:12:07] <kushal> himanshutechy, started in 1991 iirc/.
+[15:12:19] <rahul_bajaj> thisisashwani, you meant mercurial came before git, not github. git and github are two different things.
+[15:12:32] <iyogeshjoshi> rahul_bajaj: +1
+[15:12:33] <kushal> himanshutechy, not a question for this session, please ask after the class.
+[15:12:34] <kushal> next
+[15:12:40] <himanshutechy> yeah but not as bieng evolved in indian companies as job respective thing like java and other languages
+[15:12:51] <vharsh> l
+[15:12:57] <kushal> himanshutechy, Yes, and we are not discussing that in this session.
+[15:12:58] <vharsh> sorry
+[15:13:02] <kushal> aman935, ?
+[15:13:07] <aman935> We were going to discuss the article how to teach yourself programming in 10 years, and shell commands. Why are FHS and mercurial being discussed. Were they also part of the homework?
+[15:13:14] <SRvSaha> !
+[15:13:18] <himanshutechy> ok thanks
+[15:13:47] <thisisashwani> rahul_bajaj: my bad, mixed them up!
+[15:13:58] <vbhjain> aman935 ,  +1
+[15:14:14] <akshays> aman935 +1
+[15:14:15] <priyanka> aman935, +1
+[15:14:26] grepRoot is now known as gourav
+[15:14:26] <D1mz> aman935, fhs is also part of home work
+[15:14:34] <code_geek> aman935, FHS was but mercurial wasn't
+[15:14:37] <abstatic> FHS was given as homework
+[15:14:42] <sandeepmaity09> Sorry I'm Late . Sandeep Maity
+[15:14:54] <kushal> The other day I said not to give +1, I think people do not care about what I am talking here.
+[15:15:16] <priyanka> sorry kushal.
+[15:15:18] <kushal> aman935, I hope you got your answer.
+[15:15:21] <kushal> next
+[15:15:23] <amitkumarj> No, kushal actually this is not a point!
+[15:15:24] <aman935> yes
+[15:15:40] <SRvSaha> Query Solved :)
+[15:15:46] <akshays> sorry kushal
+[15:15:46] <kushal> Okay
+[15:16:04] <kushal> If no other question, that means everyone else understood everything about FHS?
+[15:16:14] <kushal> next
+[15:16:15] <SRvSaha> !
+[15:16:19] <SRvSaha> !
+[15:16:19] <kushal> next
+[15:16:32] <kushal> next
+[15:16:35] <SRvSaha> I have doubt in Lost and Found in FSH
+[15:16:38] <rahuldecoded_> !
+[15:16:38] <amitkumarj> Kushal I gone through your summer_training repo on Github and found quite exciting materials over there, most of the things i know and seen some PR of command list!
+[15:16:40] <SRvSaha> <eof>
+[15:16:53] <avik> !
+[15:16:55] <pabitra> !
+[15:16:59] <vbhjain> !
+[15:17:00] <kushal> SRvSaha, ask the doubt.
+[15:17:49] <SRvSaha> I want to know in -depth about Lost and Found. What is that basically and why it is there? <eof>
+[15:18:10] <SRvSaha> !
+[15:18:12] <LambaInsaan> !
+[15:18:34] <kushal> SRvSaha, http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/lostfound.html is this the doc you read?
+[15:18:35] <kushal> next
+[15:18:56] <abk1> !
+[15:19:06] <kushal> next
+[15:19:10] <avik> i can not clearly distinguish between mnt and media. please help
+[15:19:48] <code_geek> The new standard is that /media is where the system mounts removable media, and /mnt is for you to mount things manually.
+[15:20:25] <kushal> avik, /mnt is mostly used other harddrives in your computer, /media is supposed to be for removable drives, like usb drive, or CD/DVD
+[15:20:51] <kushal> avik, in modern Fedora systems it actually uses /run/media
+[15:20:53] <kushal> next
+[15:21:12] <pabitra> are /etc and /opt related or linked
+[15:21:21] <pabitra> because one contains config files
+[15:21:24] <avik> ok now its better :) thank you code_geek , kushal
+[15:21:30] <pabitra> where as the other is software
+[15:21:35] <kushal> pabitra, No.
+[15:21:52] <kushal> pabitra, It can happen that the software in /opt has its configs on /opt itself
+[15:22:00] <himanshutechy> !
+[15:22:04] <pabitra> and then what config files re present in /etc ??
+[15:22:28] <pabitra> oh.. i thought whatever software we install that will be placed in opt but ints config will
+[15:22:33] <pabitra> be in /etc
+[15:22:48] <kushal> pabitra, nope, /opt is used for special cases.
+[15:23:02] <pabitra> I guess, my assumption was wrong then
+[15:23:12] <kushal> pabitra, for the software which does not come properly packaged by the operating system etc cases.
+[15:23:12] <pabitra> special case ??
+[15:23:20] <pabitra> not for all software ??
+[15:23:31] <kushal> no.
+[15:23:32] <kushal> next
+[15:23:34] <vbhjain> I'm asking question from norvig peter's blog : what is the language Standardization ? why is it said : " Have the good sense to get off the language standardization effort as quickly as possible "?
+[15:24:13] <kushal> vbhjain, Have you typed that question in google.com?
+[15:24:23] <Richard99> !
+[15:24:55] <akahat> Roll Call; Amol Kahat
+[15:25:07] <vbhjain> ya but it prompted different things.....
+[15:25:08] <anushil051> !
+[15:25:10] <pabitra> !
+[15:26:16] <abstatic> !
+[15:26:21] <Richard99> i just started learning python basics and i will get the best of it as soon as i can....will there be any problem attending the classes
+[15:26:40] <Richard99> sorry for that!!
+[15:26:53] <kushal> next
+[15:27:05] <SRvSaha> Regarding execution of a binary file execution : Say I have a test.c file in my hard disk. After moving to that directory, if using gcc and try to run the binary file "a.out" it says perission denied. Even after changing the permission using chmod +x a.out , why is it unable to run the binary file from that dir?? But the same does not happen when the same is done from /home/<username>. Why is Linux system not giving permissions for executing from other har
+[15:27:08] <SRvSaha> d disks??
+[15:27:16] <SRvSaha> <eof>
+[15:28:12] <kushal> vbhjain, https://en.wikipedia.org/wiki/Programming_language_specification
+[15:28:34] <mhalano> SRvSaha: Maybe you should link the a.out to generate a useful binary. imho
+[15:28:43] <abstatic> SRvSaha, it could be because the other partition from where you are trying to execute the file is not ext4. if it is NTFS/FAT then it does not have any concept of file permissions/ownerships
+[15:28:45] <mhalano> gcc -o test test.c
+[15:28:48] <avik> !
+[15:28:49] <vbhjain> kushal,ok
+[15:29:11] <kushal> next
+[15:29:14] <LambaInsaan> In /bin, /usr/bin, /usr/local/bin,  /bin is local to root, /usr/local/bin is local to a user, if I am correct about the first two parts, what is usr/bin/ local to?
+[15:29:21] <SRvSaha> abstatic: Ok got it. Yes, it is NTFS indeed.
+[15:29:51] <snarwade> LambaInsaan, /usr/sbin is of root
+[15:30:38] <snarwade> LambaInsaan, /usr/bin is of normal user
+[15:30:49] <mhalano> LambaInsaan: /bin is for user binaries installed with the basic system. /usr/bin is for binaries of no essential applications
+[15:31:37] <mhalano> LambaInsaan: /usr/local/bin is for binaries installed without a package, like when you compile and install from source, or create a script to all users.
+[15:33:07] <LambaInsaan> Okay, thank you. mhalano, snarwade.
+[15:33:23] <mhalano> LambaInsaan: /sbin, /usr/sbin and /usr/local/sbin are the same, but for binaries root-only
+[15:33:48] <priyanka> !
+[15:34:19] <LambaInsaan> The different levels in the tree is not because of user restrictions?
+[15:34:36] <kushal> next
+[15:34:50] <abk1> i understood this difference but how can i switch over? <root@abk:~#>< root@abk:/# >
+[15:35:15] <snarwade> abk1, cd /
+[15:35:34] <abk1> oh thanks
+[15:35:38] <abk1> got it
+[15:35:56] <kushal> next
+[15:35:58] <himanshutechy> debain based distribution would work fine in the class?
+[15:36:25] <LambaInsaan> Got it! <EOF>
+[15:37:02] <abhishekg5> himanshutechy, yes
+[15:37:53] <himanshutechy> thanks abhishekg5
+[15:38:04] <kushal> next
+[15:38:06] <Richard99> i just started learning python basics and i will get the best of it as soon as i can....will there be any problem attending the classes
+[15:39:05] <kushal> Richard99, we are not teaching Python now.
+[15:40:03] <Richard99> i know that...but this worries me
+[15:40:15] <kushal> next
+[15:40:18] <anushil05> can u tell about /srv I didn't understand
+[15:40:28] <kushal> anushil05, what is u?
+[15:40:37] <anushil05> anushil051
+[15:40:50] <rahuldecoded_> "You" :)
+[15:41:02] <rahul_bajaj> Richard99, it would be great if you used only one "." :D
+[15:41:23] <Richard99> rahul_bajaj thank you
+[15:41:39] <anushil05> Actually light is gone I am using from my phone
+[15:42:09] <chshbh> Richard99 : python is not a prerequisite for this training, don't worry everyone will start from the beginning. :)
+[15:42:13] <kushal> anushil05, That directory contains files for some specific services (basics special applications, like ftp and others).
+[15:42:25] <Richard99> chshbh :)
+[15:42:30] <kushal> next
+[15:42:33] <pabitra> there are /bin folder as well as /usr/bin, /usr/locale/bin??? why such duplicacy of bin
+[15:43:14] <snarwade> pabitra, these are not duplicates
+[15:43:27] <pabitra> yes. not duplicate..
+[15:43:35] <pabitra> duplicate might be improper..
+[15:43:47] <pabitra> what i meant was why there are so many bins
+[15:44:06] <pabitra> can't a single bin can server the purpose
+[15:44:08] <pabitra> ??
+[15:44:18] <kushal> pabitra, because we keep different commands in different places, and it comes from old unix philosophy
+[15:44:20] <kushal> next
+[15:44:24] <abstatic> when we say /usr , /usr/bin directories, so the content in these are accessible by every user in the system ? and why are all the files owned by root user even in these directories ?
+[15:45:13] <abstatic> should it not be owned by the user who installed the binary file or package ?
+[15:45:35] <kushal> abstatic, so that no one can randomly change the things in those directories, and there can be more than one user in a computer.
+[15:45:36] <akshays> !
+[15:46:08] <ak_d> abstatic: root user has access to every file
+[15:46:13] <kushal> next
+[15:46:19] <kushal> next
+[15:46:26] <priyanka> What is a binary file?
+[15:46:36] <avik_> why can i not access sda or sda1 or  sda2?  {" cd sda"  shows "sda not a directory" }
+[15:46:53] <kushal> pritam, Did you google that question?
+[15:46:54] <amitk_> priyanka same like exe in windows
+[15:46:56] <rahuldecoded_> priyanka "use google first".
+[15:47:38] <aman_> !
+[15:47:43] <kushal> avik_, In linux everything comes as a file, so your second partition comes as /dev/sda2 file, you have to mount it (if not done already) on say /mnt, and then view /mnt
+[15:47:55] <kushal> avik, you will learn it in the coming days.
+[15:47:55] <kushal> next
+[15:47:56] <vbhjain> avik_,sda is a disk partition you have to mount it to access it
+[15:47:59] <akshays> why is that we have /lib and /usr/lib ? when i do ls in both i can see all same files in both of them.
+[15:48:00] <priyanka> Oh, thanks amitk_, rahuldecoded_.
+[15:48:04] <mhalano> abstatic: every user can read the binary and execute the command, but only root can change the binary (like remove) and some commands only work for root.
+[15:48:23] <kushal> akshays, It modern systems the both are same.
+[15:48:28] <kushal> next
+[15:48:31] <avik> ok understood guys thank you
+[15:49:37] <thisisashwani> !
+[15:50:08] <abhishekg5> guys it would be good if we use google first for questions starting with 'what is...' and then ask doubts if we don't understand something. This way we can benefit maximum from the training
+[15:50:24] <aman_> as .bat file in window...what is the language use to create .bat or command files in any os
+[15:50:43] <kushal> aman_, you will learn it today :)
+[15:51:04] <code_geek> !
+[15:51:22] <aman_> kushal: thanks
+[15:52:24] <HoloIRCUser4> Hello
+[15:52:46] <kushal> next
+[15:52:48] HoloIRCUser4 is now known as Rohith
+[15:52:51] <kushal> next
+[15:53:00] <code_geek> Query solved :)
+[15:53:09] <thisisashwani> kushal: then why do we have /lib and /usr/lib if both are same? is it so because old unix systems used to have such hierarchy?
+[15:53:20] <kushal> thisisashwani, Yes, correct
+[15:53:22] <poonam> !
+[15:53:33] <kushal> next
+[15:53:33] <kushal> next
+[15:54:08] <rahuldecoded_> !
+[15:54:34] <priyanka> abhishekg5, i agree with you, i am a beginner hence there are many terms i am not getting in classes, so google it will take much time...so i think asking right now is better
+[15:54:35] <poonam> it is given that sbin -- non essential sys admin commands, then what else it contains
+[15:55:00] <kushal> next
+[15:55:03] <rahuldecoded_> as a root user [root@localhost /]# cd root switches to [root@localhost ~]# but in case [rahuldecoded@localhost /]$ cd root  it give    -bash: cd: root: Permission denied why ?
+[15:55:26] <kushal> rahuldecoded, Because a normal user can not access /root
+[15:55:51] <Anandprakash> !
+[15:55:59] <kushal> next
+[15:56:19] <kushal> Okay
+[15:56:41] <kushal> To learn bash commands properly start reading from http://tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.pdf
+[15:56:42] <Anandprakash> Please tell me some important commands related to internet apart from ping,telnet,netstat?
+[15:56:56] <pabitra> rahuldecoded_, in first you are trying as a root user, but in second you are trying to access from a normal user preveledges
+[15:56:59] <kushal> Anandprakash, Read the link
+[15:57:29] <rahuldecoded_> thanks kushal pabitra
+[15:57:35] <SRvSaha> priyanka: Refer google. That is the best way to learn anything in though asking here will give you a lump-sum idea, you need to google about the topic to know in detail
+[15:57:39] <Anandprakash> okay, Kushal
+[15:57:49] <mhalano> I need to go now. I will read the logs and do the assignments. bye everyone
+[15:57:59] <vbhjain> !
+[15:58:04] <pksadiq> https://en.flossmanuals.net/_booki/command-line/command-line.pdf is also good enough
+[15:58:31] <priyanka> okay, got it SRvSaha
+[15:58:35] <HoloIRCUser4> Can I ask questions related to Android development here?
+[15:58:43] <kushal> Start reading the book
+[15:58:46] <kushal> HoloIRCUser, No
+[15:58:46] HoloIRCUser4 is now known as Rohit
+[15:58:51] <kushal> not during the sesion.
+[15:58:56] <CuriousLearner> HoloIRCUser, after the session
+[15:59:11] <kushal> Discuss and ask any question here.
+[15:59:15] Rohit is now known as Guest11026
+[15:59:19] <kushal> My battery is almost out.
+[15:59:22] <kushal> Roll Call
+[15:59:30] <code_geek> Shantanu Acharya
+[15:59:32] <rohan_h> Rohan Hazra
+[15:59:33] <jargonmonk> Aniket Khisti
+[15:59:34] <madhuri> Madhuri Muley
+[15:59:35] <yASH> Yashwanth M
+[15:59:36] <prabhatsharma> Prabhat Sharma
+[15:59:37] <kashyap638> abhishek kashyap
+[15:59:37] <CuriousLearner> Sanyam Khurana
+[15:59:37] <vbhjain> Vaibhav jain
+[15:59:37] <sandeepmaity09> Sandeep Maity
+[15:59:37] <Richard99> Mayank Gupta
+[15:59:38] <chshbh> Avinash Madhukar
+[15:59:38] <warlord77> Sahil Joseph
+[15:59:39] <abstatic> Abhishek Shrivastava
+[15:59:39] <ak_d> Akhilesh Dhaundiyal
+[15:59:40] <tejasgadsing> tejas gadsing
+[15:59:42] <amitk_> Amit Kokitkar
+[15:59:45] <pragnavi> Pragnavi
+[15:59:45] <Anandprakash> Anandprakash Tandale
+[15:59:46] <gkadam> Ganesh Kadam
+[15:59:47] <ritesh> Ritesh Mukim
+[15:59:47] <PrashantJ>  Prashant Jamkhande
+[15:59:47] <abhishekg5> Abhishek Gupta
+[15:59:47] <indiabhi> Abhishek
+[15:59:47] <thisisashwani> Ashwani Pandey
+[15:59:51] <suniva> Suniva Priyadarshini
+[15:59:52] <smdeep> Sudeep Mukherjee
+[15:59:52] <dep123k> Deepanshu Kapoor
+[15:59:53] <tbhosale> Tejshree Bhosale
+[15:59:53] <rahuldecoded_> Rahul Bhattacharjee
+[15:59:54] <aman_> Aman Kumar
+[15:59:55] <iyogeshjoshi> Yogesh Joshi
+[15:59:55] <avik> Avik Mukherjee
+[15:59:59] <snarwade> Suraj Narwade
+[16:00:00] <shobhitupadhyay> shobhit upadhyay
+[16:00:00] <iKshitij> Kshitij
+[16:00:00] <aman935> Aman Singh
+[16:00:02] <inertfluid> Joel Estibeiro
+[16:00:02] <akshays> Akshay Shipurkar
+[16:00:03] <anushil05> Anushil Kumar
+[16:00:04] <priyanka> Priyanka Sharma
+[16:00:08] <cosmologist10> shweta  suman
+[16:00:08] <himanshutechy> Himanshu Sharma
+[16:00:08] <SRvSaha> Saurav Saha
+[16:00:11] <skarale> snehal karale
+[16:00:12] <vharsh> Harsh Vardhan
+[16:00:14] <PrashantJ> Prashant Jamkhande
+[16:00:17] <anushil05> kushal: when is the next session
+[16:00:17] <juggernaut451> ashutosh kumar singh
+[16:00:24] <rahul_bajaj> rahul bajaj
+[16:00:30] <kushal> anushil05, guess guess :)
+[16:00:33] <abk1> Abheek
+[16:00:34] <abhishekcs10> Abhishek Tiwari
+[16:00:35] <akshay_CV> Akshay CV
+[16:00:39] <poonam> poonam jadhav
+[16:00:44] <shauryak_3> Shaurya Kalia
+[16:00:51] <LambaInsaan> Rhitik Bhatt
+[16:00:54] <kunalk> Kunal Kumar
+[16:01:02] <ketank> ketan kumar
+[16:01:03] <anushil05> kushal: when electricity comes back
+[16:01:08] <abhishekg5> anushil05, tomorrow :D
+[16:01:11] <abstatic> kushal, we have to read the whole book by tomorrow ?
+[16:01:21] <pyadav_> Pooja Yadav
+[16:01:22] <kushal> abstatic, Not possible :)
+[16:01:43] <Richard99> kushal is today's class over ?? :(
+[16:01:50] <kushal> Yes
+[16:01:50] <tabrez> kushal,sorry got late due to office
+[16:01:51] <rahuldecoded_> kushal :)
+[16:01:52] <anushil05> kushal: really tomorrow 😭
+[16:01:56] <kushal> endclass
+[16:01:56] [## Class Ended at Wed Jun 22 16:01:56 2016 ##]

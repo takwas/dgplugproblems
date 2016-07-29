@@ -1,0 +1,725 @@
+[15:00:00] [## Class Started at Mon Jun 20 15:00:00 2016 ##]
+[15:00:00] <kushal> startclass
+[15:00:00] <kunalk> hi everyone :)
+[15:00:01] <priyanka> is there anyone from gorakhpur?
+[15:00:06] <kushal> Roll Call
+[15:00:10] <akahat> Good evening...
+[15:00:11] <lambainsaan> Rhitik Bhatt
+[15:00:11] <SRvSaha>  Saurav Saha
+[15:00:12] <mitra00> Shubhodeep Mitra
+[15:00:13] <code_geek> Shantanu Acharya
+[15:00:13] <ShaswataD> Shaswata Dutta
+[15:00:14] <thisisashwani> Ashwani Pandey
+[15:00:15] <c0mrad3> Tummala Dhanvi
+[15:00:16] <rahuldecoded_> Rahul Bhattacharjee
+[15:00:17] suhailahmed is now known as shmed
+[15:00:17] <abstatic> Abhishek Shrivastava
+[15:00:17] <dep123> DEEPANSHU KAPOOR
+[15:00:18] <sandeepmaity09> Sandeep Maity
+[15:00:18] <gumil> Agung Gumilang
+[15:00:18] <prasantrai> Prasant rai
+[15:00:19] <abk> Abheek
+[15:00:19] <iyogeshjoshi> Yogesh Joshi
+[15:00:20] <kunalk> Kunal Kumar
+[15:00:20] <JRodDynamite> Jason Estibeiro
+[15:00:20] <rohan_h> Rohan Hazra
+[15:00:22] <shmed> Syed Suhail Ahmed
+[15:00:22] <arkro> Saikat Kumar Dey
+[15:00:23] <akash23> Akash Agarwal
+[15:00:24] <rhnvrm> Rohan Verma
+[15:00:24] <priyanka> Priyanka sharma
+[15:00:25] <shobhitupadhyay> shobhit upadhyay
+[15:00:26] <akahat> Amol Kahat
+[15:00:26] <riskarsh> Utkarsh Shukla
+[15:00:28] <vbhjain> vaibhav jain
+[15:00:29] <mahesh5> Mahesh Gahlot
+[15:00:31] <iKshitij> Kshitij
+[15:00:31] <gkadam> ganesh kadam
+[15:00:33] <saru> Saran Teja
+[15:00:34] <PrashantJ> Prashant Jamkhande
+[15:00:35] <ketank> ketan kumar
+[15:00:35] <arthar360> Athava Deshmukh ( kushal , In train, have network issues, would leave around 7:15PM)
+[15:00:36] <prashaant> Prashant Sharma
+[15:00:41] <yASH_> Yashwanth M
+[15:00:42] <nishapoyarekar> Nisha Poyarekar
+[15:00:46] <anushil051> Anushil Kumar
+[15:00:48] <avik> Avik Mukherjee
+[15:00:56] <sdas> Subhradip Das
+[15:00:58] <gobinda_> Gobinda Akhuli
+[15:01:02] <buvanesh_kumar> Buvanesh Kumar
+[15:01:05] <vharsh> Harsh Vardhan
+[15:01:17] <Ultimatepritam> Pritam Mondal
+[15:01:18] <sayan> Sayan Chowdhury
+[15:01:20] <acetakwas> Tosin Animashaun
+[15:01:20] <shalaka> Shalaka shastri
+[15:01:24] <Kamlesh> Kamlesh Chaudhari
+[15:01:27] <suniva> Suniva Priyadarshini
+[15:01:28] <prabhatsharma> prabhat sharma
+[15:01:34] <pabitra> Pabitra PaTI
+[15:01:45] <mupadhye> Upadhye Madhuri
+[15:01:51] <kushal> Around 52 nicks :)
+[15:01:56] <ak_d> Akhilesh Dhaundiyal
+[15:02:02] <trishnag> Trishna Guha
+[15:02:04] <jargonmonk> Aniket Khisti
+[15:02:21] <sandy_> sandeep kumar choudhary
+[15:02:25] <snarwade> Suraj Narwade
+[15:02:34] <kushal> Okay
+[15:02:35] <tejasgadsing> tejas gadsing
+[15:02:37] <deeksha19> Deeksha Aruloli
+[15:02:49] <akshays> akshay shipurkar
+[15:02:49] <kushal> Let us begin.
+[15:02:57] <sayali2507> Sayali Korpade
+[15:03:00] <kushal> clearqueue
+[15:03:04] <budhram> Budhram Gurung
+[15:03:21] <satya4ever> Satyajit Bulage
+[15:03:40] <kushal> Now type ! if you have any question related to the "how to ask smart questions" doc.
+[15:03:49] abhishekg5_ is now known as abhishekg5
+[15:03:51] <kushal> Anyone?
+[15:04:04] <kushal> Great :D
+[15:04:23] <priyanka> !
+[15:04:50] <kushal> next
+[15:05:06] <chirath> ChirathR
+[15:05:30] <priyanka> What if we have small questions but not smart? Should we ask or not?
+[15:05:51] <kushal> priyanka, yes, first type in google, if you can not find any answer, then ask.
+[15:05:57] <kushal> I mean then ask here.
+[15:06:07] <avik> !
+[15:06:09] <nishapoyarekar> priyanka, giyf
+[15:06:10] <priyanka> kushal, okay thanks
+[15:06:10] <kushal> next
+[15:06:20] <budhram> +1 kushal
+[15:06:42] <avik> how to google as wel as participate here
+[15:06:49] <kushal> nishapoyarekar, I never knew this term.
+[15:06:56] <priyanka> nishapoyarekar,  what is giyf?
+[15:07:08] <yASH_> Google is your friend
+[15:07:09] <nishapoyarekar> priyanka, google is your friend
+[15:07:11] <rahuldecoded_> google is your fried
+[15:07:13] <suniva> google is your friend
+[15:07:13] <sandy_> priyanka: google is your friend
+[15:07:18] <gkadam> nishapoyarekar,  :D
+[15:07:24] <rahuldecoded_> *friend
+[15:07:24] <ketank> lolzz
+[15:07:26] <yASH_> First letter caps guys
+[15:07:27] <kushal> avik, There can be two applications running in your computer.
+[15:07:33] <nishapoyarekar> kushal, ironically its there in the document ;)
+[15:07:38] <CuriousLearner> Sanyam Khurana
+[15:07:46] <kushal> ketank, Please stop saying that word.
+[15:07:54] <kushal> nishapoyarekar, Means I should read it again tonight.
+[15:07:55] <fhackdroid> priyanka, ask a question and be stupid for 5 sec then not ask one and be stupid for the rest of your life
+[15:08:04] <avik> yes but not my focus, sorry
+[15:08:06] <sandeepmaity09> !
+[15:08:10] <code_geek> It's Under STFW
+[15:08:12] <kushal> fhackdroid, Nice.
+[15:08:12] <acetakwas> avik::  You can use multiple monitors if you have another monitor.
+[15:08:22] <nishapoyarekar> +1 fhackdroid
+[15:08:24] <kushal> everyone stop please.
+[15:08:27] <rtnpro> fhackdroid, +1
+[15:08:30] <kushal> next
+[15:08:37] <sandeepmaity09> Send plain text mail not HtML . What does that mean ?
+[15:08:42] <akshays> fhackdroid +1
+[15:08:48] <sandeepmaity09> and what's the MIME ?
+[15:08:53] <priyanka> fhackdroid,  thank you.
+[15:08:56] <kushal> sandeepmaity09, That is not part of the first document.
+[15:09:12] <kushal> sandeepmaity09, Please ask it again after 2 minutes when I ask for the second one.
+[15:09:19] <poonam> i am getting an error "/dev/mapper/live-rw does not exist while installation of fedora 23 on oracle vm ,do anyone have solution for it
+[15:09:25] <sandeepmaity09> ohk
+[15:09:37] <kushal> Any more question about the first link?
+[15:09:47] <kushal> poonam, you can join #fedora and ask for help.
+[15:10:10] <priyanka> !
+[15:10:32] <kushal> next
+[15:10:37] <budhram> kunalk, since I missed first day and I didn't get with "first link"?
+[15:10:38] <priyanka> What is a blog and it's need?
+[15:11:10] <kushal> priyanka, just type the exact same thing on google.com
+[15:11:17] <rohan_h> budhram, http://www.catb.org/esr/faqs/smart-questions.html
+[15:11:18] <kushal> And you will see the magic of google.
+[15:11:27] <kushal> Read the first link.
+[15:11:29] <avik> kushal, +1
+[15:11:35] <ShaswataD> kushal, +1
+[15:11:41] <budhram> thanks rohan_h
+[15:11:44] <kushal> Everyone stop giving these +1s
+[15:11:50] <kushal> Next, https://dgplug.org/irclogs/mbuf_1stclass.log  press ! if you have any question.
+[15:11:54] abhishekg5_ is now known as abhishekg5
+[15:12:17] <vharsh> !
+[15:12:46] <sayan> ext
+[15:12:49] <sayan> next
+[15:12:58] <vharsh> Page#12 Are the extra > bad?
+[15:13:20] <vharsh> Does > show up as colorful lines in THunderbird?
+[15:13:31] <vharsh> <EOF>
+[15:13:33] <kushal> Generally does not iirc.
+[15:13:39] * kushal does not use Thunderbird. 
+[15:13:57] <rtnpro> vharsh, you use > to quote lines
+[15:14:11] sayali2507_ is now known as sayali2507
+[15:14:14] <rtnpro> vharsh, and they can be nested as well
+[15:14:29] <rtnpro> vharsh, it's usually helpful in answering to mails inline
+[15:14:42] <vharsh> hmm, To me the mails look confusing
+[15:14:42] <sayan> next
+[15:14:57] <kushal> Any question?
+[15:14:59] <vharsh> I have to look at the time stamps to understand who started the thread, etc
+[15:15:10] <rtnpro> vharsh, but don't overdo it, as it will make your mail difficult to read
+[15:15:22] <vharsh> Please, elaborate the digest mode part,sometime (page#17)
+[15:16:02] <rtnpro> vharsh, digest mode means that you get a bunch of mailing list mails (once a week, say) at once
+[15:16:20] <kushal> Someone please paste a link to a digest mode reply :)
+[15:16:38] <rtnpro> vharsh, it's not that useful if you really want to be interactive in a mailing list conversation
+[15:16:40] <vharsh> What mistake has happened? Has some user copied the previous email?
+[15:17:13] <acetakwas> vharsh::  How do you mean?
+[15:17:14] <vharsh> <EOF>
+[15:17:35] <moizsajid_> kushal, http://www.ae.iitm.ac.in/pipermail/ilugc/2008-April/040535.html
+[15:17:36] <vharsh> acetakwas, In the page#20 of http://www.shakthimaan.com/downloads/glv/presentations/mailing-list-etiquette.pdf
+[15:17:53] <kushal> moizsajid, not to me, but to vharsh :)
+[15:18:01] <moizsajid_> sorry
+[15:18:12] <kushal> No need to say sorry :)
+[15:18:14] <chandankumar> simple example of digest mode https://paste.fedoraproject.org/382099/66428680/
+[15:18:17] <kushal> Anyone else any question?
+[15:18:36] <vharsh> kushal, I'll need some more time to examine this. I am slow with mails <EOF>
+[15:19:02] <pabitra> !
+[15:19:05] <vharsh> hmm, it seems 10 mails are delivered as one.
+[15:19:21] <kushal> next
+[15:19:21] <praveenkumar> pabitra: go ahead with your question.
+[15:19:27] <pabitra> went through the digest mail... still not clear
+[15:19:46] <pabitra> does it collects only the highlighted texts from each mail ?
+[15:20:06] <pabitra> or bunches 10-15 mails in one and delivers it ??
+[15:20:07] <Ultimatepritam> moizsajid, he forgot to change the subject line, and so the conversation continued on same thread. Is this a example of Digest mode ?
+[15:20:21] <tabrez> kushal,sorry i got late,just came from office
+[15:20:32] <kushal> tabrez, no problem
+[15:20:58] <lambainsaan> pabitra: Digest Mail means you get one mail in a week, but it is a summary of whatever other people got over the week.
+[15:21:13] <SRvSaha> kushal: Is the digest mail randomly selecting some of the mails from the previous mails in a week and sending them at a time.?
+[15:21:37] <moizsajid_> Ultimatepritam, I guess so. Can anybody comment on it?
+[15:21:48] <kushal> https://www.gnu.org/software/mailman/mailman-admin/node19.html
+[15:21:55] <pabitra> same question as of SRvSaha
+[15:21:57] <akshays> even i have the same doubt as SRvSaha
+[15:22:16] <acetakwas> Digest mode works based on your type of subscription. It is user-specific in a way.
+[15:22:23] <yoda__> hi.. sorry iam late
+[15:22:41] <sayan> next
+[15:22:47] <acetakwas> If you subscribe for mails "per day," then you'd get batch of emails at the end of each day
+[15:22:49] <kushal> basically it is bad.
+[15:22:55] <sayan> kushal: +1
+[15:22:56] <acetakwas> That is if there are any emails for that day
+[15:23:15] <sayan> No more questions?
+[15:23:16] <kushal> acetakwas, Thanks for the explanation :)
+[15:23:18] <SRvSaha> acetakwas: +1
+[15:23:19] <indiabhi> hi got late as well, read the conversation.
+[15:23:20] <indiabhi> !
+[15:23:24] <sayan> next
+[15:23:33] <acetakwas> However, if you subscribe for a week or some other time frame, then the batches would come after that time
+[15:23:36] <indiabhi> what does mailman does?
+[15:23:48] <kushal> indiabhi, please do not ask questions directly
+[15:23:52] <acetakwas> Yes, kushal is right.
+[15:23:55] <kushal> indiabhi, type ! and wait for your turn.
+[15:24:07] <sayan> indiabhi: https://www.gnu.org/software/mailman/
+[15:24:10] <AndroUser> !
+[15:24:23] <praveenkumar> next
+[15:24:23] <sayan> next
+[15:24:35] <AndroUser> +1 means ?
+[15:24:37] <Ultimatepritam> acetakwas, As when I subscribe to any wordpress blogs there I can see some Delivery Frequency options
+[15:24:50] <sayan> AndroUser: I support you on that comment
+[15:24:50] <praveenkumar> AndroUser: you agree on someone's point.
+[15:25:13] <AndroUser> thanks
+[15:25:20] <yASH_> AndroUser: it means that you support a point. Usually people Call it kudos
+[15:25:36] <yoda__> !
+[15:25:37] <abstatic> !
+[15:25:39] <sayan> next
+[15:25:44] <acetakwas> Ultimatepritam::  That is not a mailing list
+[15:25:51] PrashantJ_ is now known as PrashantJ
+[15:25:55] <indiabhi> !
+[15:25:59] <yoda__> what is the topic for today's class?
+[15:26:05] <acetakwas> That means you want the blog/site to send you periodic emails about their service/product
+[15:26:23] <acetakwas> You usually don't reply to such emails
+[15:26:33] <sayan> yoda__: primarily Q/A on the communication guidelines
+[15:26:55] <acetakwas> yoda__::  Mostly, question and answers so far.
+[15:27:04] <yoda__> !
+[15:27:14] <praveenkumar> next
+[15:27:19] <sayan> yoda__: communication is one of the important foundation in open source
+[15:27:22] <sayan> next
+[15:27:31] <srinidhir> !
+[15:27:34] <sayan> next
+[15:27:37] <abstatic> What is "GPG-signed email that comes with header/footer" ?
+[15:27:49] <indiabhi> I guess my college uses mailman, so we had a problem in which there was a trouble relating to storage space, basically it creates another attachment everytime user sends another email how does gmail and other mail services handles it?
+[15:28:12] <praveenkumar> abstatic: https://www.gnupg.org/gph/en/manual/x135.html
+[15:28:14] <Ultimatepritam> acetakwas, Thank you. I think I understood. :)
+[15:28:16] iKshitij is now known as Guest30131
+[15:28:51] <yoda__> can you elaborate why communication is so important in open source?
+[15:29:08] <acetakwas> Ultimatepritam::  :)
+[15:29:24] <sayan> indiabhi: scaling the storage server!?
+[15:29:49] <Ultimatepritam> yoda__ : because OpenSource is a Community of free minded people.
+[15:29:58] <snarwade> yoda__, communication is important because open source is driven by community
+[15:30:04] <sdas> yoda__: communication is important everywhere...that's how people will understand and will help you
+[15:30:17] <rahuldecoded_> yoda__ developing is not one hand task. that's why we need to communicate. In open source we reach people through out the globe
+[15:30:36] <sayan> yoda__: so primary we communicate via IRC/Mailing list so you need to follow the guidelines so that the person you are communicating to understands
+[15:30:39] <praveenkumar> yoda__: 1. if you don't communicate then nobody will know about your work. 2. you might endup wasting lot of time for a problem which is already solved
+[15:30:55] <sayan> next
+[15:30:59] <srinidhir> Can we get the schedule of topics covered, it would really help pre class prep!
+[15:31:09] <indiabhi> sayan, probably using some data structure to keep track of different attachments sent to multiple user and storing it in just one place rather than duplicating it.
+[15:31:10] <abhishekcs10> !
+[15:31:21] <kushal> srinidhir, Nope, as it is still difficult for us to make that.
+[15:31:26] <acetakwas> yoda__:: Communication allows people working on a project to understand themselves.
+[15:31:41] <indiabhi> anyways mailman came to my mind, will go through their doc and visit there irc for further discussion :0
+[15:31:53] <praveenkumar> next
+[15:31:54] <yoda__> i got it.
+[15:31:57] <abhishekcs10> how do we use Wiki for documentation...??
+[15:32:07] <acetakwas> yoda__::  You can communicate via IRC (like this), mailing list, Slack or more channels.
+[15:32:22] <Anandprakash_> Hi,can anyone please tell me how to join summer training
+[15:32:27] <kushal> abhishekcs10, You write things in a wiki, and others will read it.
+[15:32:31] <kushal> That is how.
+[15:32:37] <prashaant> Anandprakash_, fill the google form on dgplug.org
+[15:32:40] <kushal> Anandprakash_, you are in the training.
+[15:32:48] <Anandprakash_> I have filled
+[15:32:49] <rahuldecoded_> abhishekcs10 Wiki documentation help end user the use their product. If acts like a guide.
+[15:32:51] <kushal> Anandprakash_, Attend the sessions here.
+[15:33:04] <Anandprakash_> okay
+[15:33:05] <rahuldecoded_> *IT
+[15:34:08] <abhishekcs10> one should prefer Wiki or blog for their projects...??
+[15:34:18] <moizsajid_> !
+[15:34:27] <acetakwas> abhishekcs10::  Both (it depends)
+[15:34:49] <acetakwas> abhishekcs10::  Your blog mostly would be edited by you alone
+[15:34:58] <punarvasu510> next
+[15:35:09] <punarvasu510> sorry!
+[15:35:10] <acetakwas> But a wiki allows more people to collaboratively edit a document
+[15:35:26] <abhishekcs10> +1 acetakwas
+[15:35:29] <yoda__> !
+[15:35:34] <abhishekcs10> thank you...:)
+[15:35:48] <shauryak_3> !
+[15:35:51] <sayan> next
+[15:35:54] <moizsajid_> Is wiki documentation for end users or for developers?
+[15:36:02] <sayan> moizsajid_: both
+[15:36:43] <chandankumar> moizsajid, sometimes wiki is used as a white board to share their ideas about the project.
+[15:37:13] <moizsajid_> got it!
+[15:37:15] <sayan> moizsajid_: developers can have documentation, READMEs as wiki
+[15:37:42] <yoda__> is there any doc or blog related to today's class?
+[15:37:43] <sayan> moizsajid_: maybe those developers also create pages for end users too
+[15:37:47] <sayan> next
+[15:38:11] <sayan> yoda__: doc? as in?
+[15:38:20] <SRvSaha> !
+[15:38:20] <SRvSaha> How is Wiki different from Documentation?
+[15:38:37] <sayan> next
+[15:38:42] <yoda__> Documentation for any software which open source community use
+[15:38:42] <shauryak_3> can someone give me an example of how they used a blog for their project? a link perhaps?
+[15:39:40] <praveenkumar> shauryak_3: http://wiki.libvirt.org/page/Main_Page
+[15:39:42] <ShaswataD> http://www.slimframework.com/blog/
+[15:39:44] <yoda__> How a communication tool works.A general idea which one can go through
+[15:40:06] <abhishekcs10> !
+[15:40:10] <chandankumar> shauryak_3, like rtnpro uses his blog to talk about his project http://www.rtnpro.com/ircb-0-1-1-released/
+[15:40:16] <sayan> shauryak_3: you search for a project's + blog on google
+[15:40:22] <sayan> next
+[15:40:54] <sayan> next
+[15:40:59] <abhishekcs10> How we use laTex for documentation...?
+[15:41:06] <SRvSaha> How is Wiki different from Documentation?
+[15:41:21] <kushal> abhishekcs10, It is a big thing.
+[15:41:27] <kushal> abhishekcs10, Takes time to learn
+[15:41:35] <abhishekcs10> is it used in wiki as well..?
+[15:41:37] <yASH_> !
+[15:41:48] <sayan> Documentation is a generic term
+[15:41:51] <lambainsaan> SRvSaha: Wiki answers questions like what is the coding standards that is used in the project while documentation give you the functions present in the framework. Not sure.
+[15:42:09] <tejasgadsing> !
+[15:42:21] <AndroUser> !
+[15:42:23] <acetakwas> sayan::  +1
+[15:42:59] <SRvSaha> sayan: Ok. Documentation is the Abstract thing that is made up of wikis, blogs <eof>
+[15:42:59] <punarvasu510> SRvSaha Wiki is used for documentation
+[15:43:04] <rahuldecoded_> !
+[15:43:09] <sayan> Documentation is docs related to a software on how to use it? Installation etc
+[15:43:22] <sayan> where wiki is a website maintained by a communnity
+[15:43:28] <priyanka> <eof>==?
+[15:43:30] <sayan> s/where/whereas
+[15:43:31] <acetakwas> In my opinion, "Documentation" is a more formal/official release.
+[15:43:32] <sayan> next
+[15:43:35] <yASH_> Do I have to use blowfish encryption for this ? Because I heard passwords sent through Nickserv and Chanserv are not encrypted if your connection is not encrypted
+[15:44:06] <acetakwas> As a developer you want to check the documentation for technical specifications.
+[15:44:17] <moizsajid_> yASH_, good question
+[15:44:19] <tabrez> sayan, what is s/where
+[15:44:36] <yASH_> Thanks !!
+[15:44:40] <sayan> yASH_: communication in IRC happends over plaintext
+[15:44:55] <sayan> tabrez: use ! to ask questions
+[15:44:57] <sayan> next
+[15:44:59] <tejasgadsing> what is latex?
+[15:45:11] <punarvasu510> !
+[15:45:22] <tabrez> !
+[15:45:23] <praveenkumar> tejasgadsing: https://www.latex-project.org/
+[15:45:29] <sayan> tejasgadsing: http://lmgtfy.com/?q=what+is+mailman
+[15:45:40] <AndroUser> is it required to read whole wiki to understand the project ?
+[15:45:41] <sayan> next
+[15:45:41] <yoda__> !
+[15:45:56] <akahat> tejasgadsing, Latex is tool for creating documentation pdf. Follow above praveenkumar's link
+[15:45:57] <tejasgadsing> praveenkumar,sayan thanks
+[15:46:01] <abhishekg5_> tabrez, it is used to correct anything you previously wrote wrong
+[15:46:06] <acetakwas> AndroUser::  No.
+[15:46:10] <CuriousLearner> AndroUser, it depends.
+[15:46:11] <praveenkumar> AndroUser: depend on how much you already know about that project.
+[15:46:15] <sayan> AndroUser: use ! to ask questions
+[15:46:18] <sayan> next
+[15:46:19] <rahuldecoded_> respond Inline in email. Should we reply inline the opening thread where Question is asked or we can reply to the responded mail too?
+[15:46:31] <abhishekg5_> tabrez, s/"wrong_phrase"/"correct_phrase"
+[15:46:31] <Anandprakash_> !
+[15:46:38] <AndroUser> thanks...i used !
+[15:46:56] <tabrez> thanks abhishekg5
+[15:47:04] <CuriousLearner> rahuldecoded_, you can respond to any mail. You keep the response inline so that it would be easy to track in what context a reply has been made.
+[15:47:05] <praveenkumar> rahuldecoded_: It means you should reply inline to whatever question/query/suggestion you want to make against.
+[15:47:07] <sharique> !
+[15:47:08] <sayan> rahuldecoded_: reply inline to the email you want to respond
+[15:47:14] <sayan> next
+[15:47:16] <punarvasu510> What is yaSH talking about? The encryption part. Why do we need it?
+[15:47:57] <sayan> punarvasu510: encryption is needed so that no one can spy on our activity
+[15:48:00] <sayan> next
+[15:48:04] <tabrez> got the answer
+[15:48:08] <sayan> tabrez: cool
+[15:48:10] * rahuldecoded_ Thanks :)
+[15:48:10] <sayan> next
+[15:48:13] <ashim> for higher security purpose
+[15:48:33] <yoda__> do we have any framework in python used for communicating?
+[15:48:40] <sayan> punarvasu510: http://lmgtfy.com/?q=what+is+encryption+needed
+[15:49:41] <sayan> yoda__: you need to be specific. which area of communicating?
+[15:49:42] <arthar360_> sayan: 😄
+[15:49:45] <acetakwas> yoda__::  Not sure what you mean. A framework is some code written by someone (even you) which you can usually build an app around.
+[15:50:04] <acetakwas> It's a like "skeletal" code.
+[15:50:34] <sayan> yoda__: if you are looking for wiki engines - https://wiki.python.org/moin/PythonWikiEngines
+[15:50:40] * chandankumar will connect from home.
+[15:51:13] <sayan> yoda__: if you are looking for Python IRC bouncers - github.com/waartaa/ircb
+[15:51:21] <arthar360_> kushal: I have to leave
+[15:51:22] <sayan> there are a few more
+[15:51:24] <sayan> next
+[15:51:25] <moizsajid_> sayan, lmgtfy.com -> cool website
+[15:51:28] <Anandprakash_> any good tool or way to find work flow control of big python code
+[15:51:36] <SRvSaha> !
+[15:51:39] <yoda__> someone shared the link the link for slime framework which is wriiten in php.I was curious if there is any such framework built in python
+[15:51:55] <sayan> Anandprakash_: you can use a debugger like ipdb or pudb
+[15:51:56] abhishekg5__ is now known as abhishekg5
+[15:52:27] <Anandprakash_> yes I am using it, what about pycallgraph, I want to explore it more..is it a good idea
+[15:52:32] <CuriousLearner> yoda__, there are many like web2py, flask, django, tornado etc.
+[15:52:35] <SRvSaha> sayan: Is framework the basic thing, on the top of which we can build something. How is it different from an API then?
+[15:52:56] <sayan> yoda__: http://flask.pocoo.org/ something that can be compared to slim
+[15:52:59] <indiabhi> yoda__, for writing rest apis Django rest framework is good.
+[15:53:07] <tabrez> !
+[15:53:17] <kushal> We are moving out too much.
+[15:53:18] <sayan> next
+[15:53:22] <sanketdg> yoda__: PHP and python are fundamentally different languages. As for web frameworks https://github.com/vinta/awesome-python#web-frameworks
+[15:53:24] <sharique> can we consider README for a project on git sites as a documentation ?
+[15:53:32] <kushal> No more python questions.
+[15:53:42] <praveenkumar> sharique: depend on how good that written
+[15:53:46] <ashim> !
+[15:53:59] <sayan> sharique: yes, but depending on the detail in which it is explained
+[15:54:08] <sayan> next
+[15:54:38] <sayan> next
+[15:54:39] <SRvSaha> sayan: Is framework the basic thing, on the top of which we can build something. How is it different from an API then?
+[15:54:45] <tabrez> sayan, wiki engines means search engines used to search any doc or related material?
+[15:54:52] <kushal> SRvSaha, it is not part of the discussion.
+[15:54:58] <thisisashwani> SRvSaha: api is there so as to easy your way to use some other application, while building your own!
+[15:55:01] <kushal> Keep those questions for later.
+[15:55:09] <kushal> next
+[15:55:11] <avik> !
+[15:55:13] <ashim> what are supported data types
+[15:55:15] <sayan> Only question regarding communications
+[15:55:26] <kushal> ashim, Not related here.
+[15:55:27] <sayan> and communication guidelines
+[15:55:29] <kushal> next
+[15:56:02] <avik> can we please come back to some conversation which beginers like me can comprehend?
+[15:56:10] <kushal> avik, Yes, right
+[15:56:13] <kushal> We have to do that.
+[15:56:17] <kushal> avik, Thanks for saying that.
+[15:56:20] <punarvasu510> +1 aik
+[15:56:22] <sayan> avik: yes, that's why we stopped
+[15:56:27] <punarvasu510> *+1 avik
+[15:56:33] <abstatic> +1 avik
+[15:56:33] <rahuldecoded_> :D
+[15:56:38] <sayan> next
+[15:56:46] <kushal> https://dgplug.org/irclogs/mbuf_2ndclass.log  Any questions on this?
+[15:56:55] <jargonmonk> https://dgplug.org/summertraining16/
+[15:57:03] <jargonmonk> sorry
+[15:57:34] <acetakwas> For those who want to ask questions that are as friendly to beginners, [I believe] you can do so after the class session ends.
+[15:57:49] <kushal> acetakwas, That should be in the session
+[15:58:05] <kushal> People are asking random questions which has nothing to do with the session.
+[15:58:13] <acetakwas> kushal::  s/are/"are not"
+[15:58:13] <kushal> Any question on https://dgplug.org/irclogs/mbuf_2ndclass.log ?
+[15:58:13] tmackin is now known as mac1733
+[15:58:23] <kushal> acetakwas, hehe :)
+[15:58:45] <ShaswataD> !
+[15:58:55] <sayan> next
+[15:59:01] <ShaswataD> how to initiate communication with a mentor for the first time?
+[15:59:18] * chshbh was afk
+[15:59:28] <kushal> ShaswataD, Write a nice email.
+[15:59:38] <lambainsaan>  !
+[15:59:41] <indiabhi> !
+[15:59:50] <kushal> lambainsaan, you should not have any space.
+[15:59:53] <kushal> next
+[15:59:58] <SRvSaha> !
+[16:00:06] <indiabhi> should i visit their irc channel or write to their mailing list?
+[16:00:08] <lambainsaan> !
+[16:00:18] <punarvasu510> !
+[16:00:22] <SRvSaha> What is Linux generally referred to as GNU/Linux?
+[16:00:59] <kushal> indiabhi, You should do both.
+[16:01:00] <punarvasu510> SRVSaha: wait till the bot asks you to ask your question
+[16:01:06] <kushal> SRvSaha, Please wait for your turn.
+[16:01:15] <sayan> SRvSaha: wait for your turn anyways we won't answer out of turn questions
+[16:01:27] <sayan> next
+[16:01:39] <punarvasu510> lol
+[16:01:45] <indiabhi> you missed my question?
+[16:01:48] <SRvSaha> kushal: punarvasu510 : Sorry for that. Actually mistakenly I have stroked the Enter key-__-
+[16:01:52] <kushal> indiabhi, Both.
+[16:02:19] <ashim> mera to janek man nhi krra jbse ye dialog box open hua
+[16:02:21] <acetakwas> SRvSaha::  GNU is the operating system. Linux is a kernel. (I'll leave you to learn what a Kernel is.)
+[16:02:24] <SRvSaha> What is Linux generally referred to as GNU/Linux?
+[16:02:25] <manjaroi3_> Linux is simply a kernel. To make it a complete operating system gnu utilities and many other software are required. therefore GNU/Linux
+[16:02:33] <chshbh> SRvsaha: because, linux is just a kernel, not the whole operating system, which includes contribution from many, so GNU/Linux signifies the whole os.
+[16:02:44] <sayan> .link question
+[16:02:48] <sayan> SRvSaha: ^^
+[16:02:49] <kushal> :)
+[16:02:50] <shobhitupadhyay> !
+[16:02:56] <kushal> SRvSaha, ^^^^^
+[16:03:00] <abk> !
+[16:03:06] <abhishekcs10> !
+[16:03:13] <sayan> next
+[16:03:17] <lambainsaan> How to find a mentor? I have been looking for someone who can guide me since a very long time. <EOM>
+[16:03:43] <vharsh> SRvSaha, Read what happened to a 14 year old guy when he said Linux instead of GNU/Linux to RMS :p
+[16:04:11] <iKshitij> !
+[16:04:42] <AndroUser> !
+[16:04:49] <Anandprakash_> !
+[16:05:06] <kushal> lambainsaan, Now you are in the right place.
+[16:05:15] <kushal> lambainsaan, Continue with the training, and you will learn a lot.
+[16:05:17] <kushal> next
+[16:05:19] <rahuldecoded_> kushal +1
+[16:05:19] <punarvasu510> Is the agenda for today's session any different from that of yesterday's ?Just asking :)
+[16:05:47] <kushal> punarvasu510, What do you think are we doing?
+[16:06:00] <kushal> Discussing the home task.
+[16:06:08] <kushal> That is the difference.
+[16:06:10] <kushal> next
+[16:06:13] <shobhitupadhyay> which communication create more impact and beneficial,voice or chat communication?
+[16:06:56] <acetakwas> shobhitupadhyay::  I think you should stick with what works best for you.
+[16:07:00] <prashaant> shobhitupadhyay, both are use  in different scenarios
+[16:07:09] <anushil051> email
+[16:07:46] <prashaant> shobhitupadhyay, communication = right toot + right time + right people + right job read shaktimaan's slides
+[16:08:06] <D1mz> +1 prashant
+[16:08:16] <vharsh> +1 prashaant
+[16:08:16] <indiabhi> +1 prashaant
+[16:08:24] <tabrez> +1
+[16:08:29] <a2batic> +1
+[16:08:31] <acetakwas> And you usually get logs of chats, not really the case with voice of course.
+[16:08:51] <kushal> next
+[16:08:54] <abk> there are some non-free distribution of linux, how are they different? i have googled it only to find about some extra driver support.
+[16:09:06] <shobhitupadhyay> +1 prashant
+[16:09:17] <shobhitupadhyay> +1 acetakwas
+[16:10:01] <priyanka> prashaant, +1
+[16:10:24] <indiabhi> !
+[16:10:38] <acetakwas> abk::  Mostly that they are owned by companies that offer technical support
+[16:10:50] <kushal> Yes, many hardware does not have open source driver.
+[16:11:15] <abk> ok :) so its just about the support. thanks
+[16:11:45] <sandeepkr> abk, because they contain software that is not free/libre.Interestingly it turns out to be drivers on most occasions.
+[16:12:42] <D1mz> even some multimedia codecs like mp3 are not free software
+[16:13:08] <sandeepkr> D1mz, good point.
+[16:13:47] <vharsh> Rival organizations(AMD vs Nvidea) scared that their competitors will steal their research.
+[16:13:48] <kushal> Yes
+[16:13:54] <kuldeep> D1mz, "even some multimedia codecs like mp3 are not free software" patent of the codec and implementation are two different things.
+[16:13:54] <kushal> we can continue.
+[16:13:58] <vharsh> Btw a good article with a horrifying end
+[16:13:58] <vharsh> https://fedoramagazine.org/open-source-black-boxes-radioactivity/
+[16:13:59] <kushal> next
+[16:14:05] <abhishekcs10> So when we use term GNU/Linux which distribution (Ubuntu, Fedora etc.) are we referring to...?
+[16:14:07] <sayan> next
+[16:14:22] <iKshitij> why dgplug group prefer Fedora over other linux dist ?
+[16:15:13] <priyanka> !
+[16:15:23] <kushal> iKshitij, because we think it is the best distribution for developers and users.
+[16:15:24] <kushal> next
+[16:15:33] <rahuldecoded_> iKshitij It is good for developers
+[16:15:40] <pksadiq> !
+[16:15:44] <kushal> next
+[16:15:46] <sayan> next
+[16:15:47] <Anandprakash_> can any one please tell me a complete workflow of any linux command..means when we enter a command what is going inside...and how we can see the progress using stacktrace/any other?
+[16:16:04] <kushal> Anandprakash_, not part of this class.
+[16:16:05] <kushal> next
+[16:16:06] <indiabhi> how do u search inside irc logs? does google crawls irc logs as well? More importantly how do i find relevant information from irc logs?
+[16:16:10] <priyanka> Kushal, what are some risks associated with Open Source Software?
+[16:16:47] <kushal> indiabhi, Open the log in browser, press Ctrl+f to open the find box
+[16:16:49] <acetakwas> indiabhi::  Use your web browser's "Find" feature (Ctrl+F)
+[16:16:53] <iKshitij> Rahul Can you justify ! How ?
+[16:17:08] <kushal> iKshitij, you will learn with time.
+[16:17:11] <kushal> next
+[16:17:20] <kushal> priyanka, I don't know any.
+[16:17:26] <pksadiq> On what basis Fedora is considered to be the best for Developers? I have seen Debian GNU/Linux to have more software and community support
+[16:17:30] <rahuldecoded_> !
+[16:17:40] <kushal> pksadiq, You will learn it with time.
+[16:17:41] <kushal> next
+[16:17:52] <iKshitij> Kushal and Rahul Thank You.
+[16:17:57] <rahuldecoded_> is irc chats are secured?
+[16:18:01] <acetakwas> priyanka::  You could become popular :)
+[16:18:07] <sayan> iKshitij: because Fedora works closely with Upstream, has updated packages, you get the latest things on Fedora
+[16:18:08] <kuldeep> priyanka, "risks associated..." very broad
+[16:18:13] <vharsh> priyanka, Check https://fedoramagazine.org/open-source-black-boxes-radioactivity/
+[16:18:21] <chshbh> priyanka: its linear hierarchy can have some disadvantages too.
+[16:18:35] <abhishekg5> rahuldecoded_, In what sense ?
+[16:18:54] <abhishekcs10> next
+[16:18:54] <priyanka> vharsh, okay.
+[16:19:02] <acetakwas> rahuldecoded_::  Simply, "No." It's in plain text.
+[16:19:13] <sayan> next
+[16:19:22] <priyanka> chshbh, okay.
+[16:19:39] <kushal> Okay
+[16:19:57] <priyanka> acetakwas, means?
+[16:20:08] <acetakwas> priyanka::  That's a joke.
+[16:20:15] <D1mz> priyanka, AFAIK there are only 2 major distros that offer bleeding edge software, Arch and Fedora. Arch is not for beginners so Fedora is a better choice.
+[16:20:16] <kushal> next
+[16:20:36] <chshbh> +1
+[16:20:44] <priyanka> acetakwas,  ohh.
+[16:20:58] <kushal> Next
+[16:21:07] <kushal> For tomorrow read this https://dgplug.org/irclogs/mbuf_2ndclass.log
+[16:21:11] <kushal> Ooops
+[16:21:14] <kushal> wrong link
+[16:21:18] <sandeepkr> D1mz, how can you say that arch is not for beginners? im not saying you are wrong im just looking for your reason
+[16:21:25] <kuldeep> onething that distinquish Arch and Fedora, Arch is rolling release. `pacman -Syu` and you have all the latest packages
+[16:21:43] <kushal> For tomorrow please go through https://dgplug.org/irclogs/mbuf_2ndclass.log
+[16:21:47] <kushal> Eeks
+[16:21:55] <punarvasu510> !
+[16:22:02] <kushal> https://dgplug.org/irclogs/2013/2013-07-17-ncoghlan.log
+[16:22:08] <kushal> ^^ read this for tomorrow.
+[16:22:09] <kuldeep> with Fedora, one has replace the current with "new release"
+[16:22:32] <priyanka> D1mz,  will you explain?
+[16:23:07] <sanketdg> kuldeep: Arch definitely takes a lot of setup, whereas Fedora's installation and setup is a breeze compared to that.
+[16:23:36] <sanketdg> sandeepkr: ^
+[16:23:55] <D1mz> sandeepkr, The difficulty in installation and troubleshooting. This is because every installation is unique and the same solution may not work for everyone
+[16:24:43] <acetakwas> When you look at so many tools online, and measure how much support they have for one OS (e.g Fedora vs Arch), you would usually find more of Fedora
+[16:24:53] <D1mz> Arch has more chances of breaking when upgraded
+[16:25:05] <acetakwas> Or Ubuntu (which I use)
+[16:25:30] <abstatic> Ubuntu packages very old software
+[16:25:47] <acetakwas> So, with Arch, you have less people holding your hands to guid you.
+[16:25:53] <acetakwas> s/guid/guide
+[16:26:01] <thisisashwani> kushal: any other readings for tomorrow?
+[16:26:12] <iKshitij> kushal log of Jul 17 2013  ?
+[16:26:26] <rahuldecoded_> kushal I think the above link is above. So should we install python?
+[16:26:28] <D1mz> No Arch has the top notch documentation of all distros
+[16:26:31] <prashaant> everyone , don't get sentimental about which distro to use instead focus on the contribution part initially
+[16:26:42] <D1mz> +1
+[16:26:44] <kuldeep> Arch wiki is one place to get all info its awwsome. and afair there is a fork of Arch in which they are working for "beginners"
+[16:26:48] <rahuldecoded_> kushal I think the above link is about python. So should we install python?
+[16:26:55] <sayan> Read the link kushal gave
+[16:26:56] <chshbh> +1
+[16:27:01] <abstatic> +1 kuldeep D1mz
+[16:27:04] <vharsh> rahuldecoded_, python is there in most distros
+[16:27:05] <rahuldecoded_> sayan ok
+[16:27:09] <priyanka> +1 prashaant
+[16:27:18] <sayan> And tomorrow you would require a Linux distro
+[16:27:25] <android> !
+[16:27:30] <sayan> so get it ready those who have not yet
+[16:27:31] <sayan> next
+[16:27:34] <punarvasu510> Once we type "!", is there any way to get out of the queue?
+[16:27:35] <sayan> next
+[16:27:58] <sandy_> !
+[16:27:59] <sayan> punarvasu510: no, maybe you can send a PR, first contribution :)
+[16:28:01] <sayan> next
+[16:28:01] <android> how to contribute in open source as a beginner
+[16:28:07] <vharsh> !
+[16:28:17] <sandy_> what is best to dual boot or installon virtual
+[16:28:28] <sayan> android: you will learn that here itself
+[16:28:30] <sayan> next
+[16:28:34] <anushil051> sandy_ dual boot
+[16:28:36] <vharsh> How about recommending a documentary/movie related to linux/etc etc?
+[16:28:41] <abstatic> sandy_ setting up dual boot is tricky. you might lose your data
+[16:28:44] <rohan_h> android, https://sayanchowdhury.dgplug.org/how-to-get-started-with-open-source/
+[16:28:46] <vharsh> I know one of them, Revolution OS
+[16:28:53] <grepRoot> +1
+[16:29:15] <sayan> sandy_:  it good to get Linux install by somebody who knows if you are not that confident
+[16:29:23] <grepRoot> You will get to know the FSF and open source debate.
+[16:29:27] <sayan> else go for virtual installation
+[16:29:27] <sandy_>  abstatic so what method should i prefer?
+[16:29:28] <sandeepkr> vharsh, i guess thats the only one.I might be wrong.
+[16:29:29] <ShaswataD> vharsh, Aaron Swartz : Internets Own Boy
+[16:29:55] <sayan> vharsh: google, plenty out there
+[16:30:02] <grepRoot> +1, though you would mostly learn about aaron's life..
+[16:30:05] <vharsh> sandeepkr, There's one more "Code story linux", "Code rush" -> Mozilla
+[16:30:06] <kuldeep> vharsh, RMS talks and gnu.org are useful to understand in broader view
+[16:30:12] <gkadam> vharsh, Person of Interest or Mr. Robot
+[16:30:20] <mayurparik> what about installing dual boot, UEFI and Legacy
+[16:30:21] <vharsh> Please recommend us some.
+[16:30:21] <abstatic> sandy_ try installing on a vm first. if you feel comfortable then try dual boot. level of difficulty depends on the other os win7 < win8 < win10
+[16:30:48] <sandeepkr> +1 kuldeep
+[16:30:51] <sayan> next
+[16:30:58] <vharsh> mayurparik, Plenty of videos on youtube.
+[16:31:02] <sandy_> sayan: ther is no nobody in my circle who know, first i try to install ubuntu but can't
+[16:31:31] <grepRoot> gkadam, +1 for POI but that is fiction but good for motivation.
+[16:31:57] <indiabhi> haha Machine :p
+[16:31:59] <chshbh> sandy_ : try Ubuntu on VMware, plenty of tutorials on how-to
+[16:32:15] <gkadam> mayurparik, you need to check if uefi is enabled, or legacy support is enabled. by default uefi will support GPT partition , so you need to be aware of GPT, MBR and other things.
+[16:32:21] <shauryak_3> sandy_, search on youtube you will find plenty of videos to dual boot
+[16:32:22] <pabitrapati> I am not getting what we are  discussing  on vharsh's question
+[16:32:32] <abk> youtube shows exactly how to install a linux distro plus google it'
+[16:32:34] <sandy_> sayan: ended changing my all drive  from primary to basic drive ,try create an empty partition but didn't work out
+[16:32:42] <anushil051> sandy_:it's simple just make a bootable and make root,swap,home directory and install
+[16:32:52] <pabitrapati>  recommending a documentary/movie related to linux/etc etc
+[16:33:07] <gkadam> grepRoot, yes. harold and root are my motivation! :D
+[16:33:36] <grepRoot> gkadam: Oh, yeah!
+[16:34:06] <grepRoot> is the session over?
+[16:34:09] <code_geek> sandy_, to install ubuntu alongside windows, refer to this video: https://www.youtube.com/watch?v=_FuLXIKLVjg
+[16:34:10] <iKshitij> !
+[16:34:18] <sandy_> anushil051: i try but when i choose 3rd option it show one c: drive and other all drive combine
+[16:34:19] <prashaant> grepRoot, no
+[16:34:21] <D1mz> I think persistent live usb is also a good alternative to dual boot
+[16:34:26] <iKshitij> Sayan When I was trying to install Fedora dual boot with windows. (Windows PreInstalled). I was getting error " ". I asked the same on fedora forum. They asked me to change Drive to GPT from GMR. what is GPT or GMR
+[16:34:46] <abstatic> D1mz, +1  but the OS of choice should be lightweight like puppy or lubuntu
+[16:34:50] <sandy_> code_geek: thank's  i will see
+[16:34:51] * sayan got disconnected
+[16:34:59] <mayurparik> +1 iKshitij
+[16:34:59] <code_geek> welcome
+[16:35:01] <grepRoot> Oh, didn't see kushal's message for a while. So thought.
+[16:35:04] <ShaswataD> !
+[16:35:08] <sayan> next
+[16:35:12] <sayan> next
+[16:35:17] <anushil051> sandy_:first make partition in windows then try you will see every drive
+[16:35:18] <sayan> grepRoot: he is disconnected
+[16:35:19] <iKshitij> Sayan When I was trying to install Fedora dual boot with windows. (Windows PreInstalled). I was getting error " ". I asked the same on fedora forum. They asked me to change Drive to GPT from GMR. what is GPT or GMR
+[16:35:22] <gkadam> iKshitij, it is MBR
+[16:35:26] <ShaswataD> is the session over?
+[16:35:31] <sayan> iKshitij: let's take this question after the sesssion
+[16:35:31] <iKshitij> sorry MBR
+[16:35:36] <prashaant> ShaswataD, no
+[16:35:37] <sayan> any more question?
+[16:35:40] <iKshitij> okay
+[16:35:41] <sayan> next
+[16:35:47] <sayan> Roll Call
+[16:35:52] <vharsh> Harsh Vardhan
+[16:35:52] <rohan_h> Rohan Hazra
+[16:35:54] <rahuldecoded_> Rahul Bhattacharjee
+[16:35:54] <gkadam> Ganesh Kadam
+[16:35:55] <imack> Mahendra Yadav
+[16:35:55] <ShaswataD> Shaswata Dutta
+[16:35:55] <kunalk> Kunal Kumar
+[16:35:56] <code_geek> Shantanu Acharya
+[16:35:56] <shauryak_3> Shaurya Kalia
+[16:35:57] <gumil> Agung Gumilang
+[16:35:57] <JRodDynamite> Jason Estibeiro
+[16:35:59] <chshbh> Avinash Madhukar
+[16:36:00] <PrashantJ> Prashant Jamkhande
+[16:36:00] <iKshitij> Kshitij
+[16:36:00] <gobinda_> Gobinda Akhuli
+[16:36:01] <snarwade> Suraj Narwade
+[16:36:01] <Rnarwade> Rushiprasad Narwade
+[16:36:01] <ketank> ketan ku ar
+[16:36:01] <akshays> Akshay Shipurkar
+[16:36:03] <grepRoot> Gourav Chawla
+[16:36:03] <punarvasu510> Alekhya Vellanki
+[16:36:04] <abstatic> Abhishek Shrivastava
+[16:36:05] <lambainsaan_> Rhitik Bhatt
+[16:36:06] <dep123> Deepanshu Kapoor
+[16:36:06] <vbhjain> vaibhav jain
+[16:36:07] <satya4ever> Satyajit Bulage
+[16:36:07] <suniva> Suniva Priyadarshini
+[16:36:08] <ak_d> Akhilesh Dhaundiyal
+[16:36:08] <real56> Varsha R
+[16:36:08] <riskarsh> Utkarsh Shukla
+[16:36:09] <mupadhye> Upadhye Madhuri
+[16:36:09] <sandeepmaity09> Sandeep Maity
+[16:36:09] <mayurparik> mayurparik
+[16:36:10] <priyanka> Priyanka Sharma
+[16:36:11] <abk> Abheek
+[16:36:11] <prashaant> Prashant Sharma
+[16:36:11] <avik> Avik Mukherjee
+[16:36:12] <arkro> Saikat Kumar Dey
+[16:36:14] <yASH_> Yashwanth M
+[16:36:15] <tbhosale> Tejshree Bhosale
+[16:36:16] <D1mz> Aditya Bayana
+[16:36:17] <tejasgadsing> Tejas gadsing
+[16:36:18] <acetakwas> Tosin Animashaun
+[16:36:19] <madhuri> Madhuri Muley
+[16:36:20] <tabrez> Tabrez khan
+[16:36:20] <anushil051> Anushil Kumar
+[16:36:22] <shobhitupadhyay> shobhit upadhyay
+[16:36:24] <thisisashwani> Ashwani Pandey
+[16:36:42] <Kamlesh> Kamlesh Chaudhari
+[16:36:44] <jargonmonk> Aniket Khisti
+[16:36:52] <poonam> poonam jadhav
+[16:36:55] <neha_s> Neha
+[16:36:57] <sandeepkr> Sandeep Kumar
+[16:37:33] <punarvasu510> !
+[16:37:46] <sayan> endclass
+[16:37:46] [## Class Ended at Mon Jun 20 16:37:46 2016 ##]

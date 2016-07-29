@@ -1,0 +1,377 @@
+[15:06:25] [## Class Started at Thu Jun 23 15:06:25 2016 ##]
+[15:06:25] <sayan> startclass
+[15:06:26] <gkadam> Ganesh Kadam
+[15:06:26] <dep123k> Deepanshu Kapoor
+[15:06:27] <code_geek> Shantanu Acharya
+[15:06:29] <abhishekcs10> happy birthday sayan..:)
+[15:06:29] <ak_d> Akhilesh Dhaundiyal
+[15:06:31] <LambaInsaan> Rhitik Bhatt
+[15:06:31] <anushil051> Anushil Kumar
+[15:06:32] <iKshitij> Happy Birthday Sayan :)
+[15:06:33] <yASH> Yashwanth M
+[15:06:33] <akshays> Akshay Shipurkar
+[15:06:33] <Richard99> Mayank Gupta
+[15:06:34] <abstatic> Abhishek Shrivastava
+[15:06:34] <snarwade> Suraj Narwade
+[15:06:36] <pabitra> Pabitra Pati
+[15:06:36] <mahesh5> Mahesh Gahlot
+[15:06:38] <hemanth> hemanth savasere
+[15:06:38] <shobhitupadhyay> shobhit upadhyay
+[15:06:38] <nandu> Nandakishor Prabhu R
+[15:06:39] <vbhjain> Vaibhav Jain
+[15:06:39] <pragnavi> Pragnavi
+[15:06:40] <shauryak_3> Shaurya Kalia
+[15:06:40] <rhnvrm> Rohan Verma
+[15:06:40] <rajalokan> Alok Kumar
+[15:06:41] <real56> Varsha R
+[15:06:41] <warlord77_> Sahil Joseph
+[15:06:41] <realslimshanky> Shashank Kumar
+[15:06:43] <PrashantJ> Prashant Jamkhande
+[15:06:44] <abhishekcs10> Abhishek Tiwari
+[15:06:44] <sandy__> sandeep kumar choudhary
+[15:06:44] <inertfluid> Joel Estibeiro
+[15:06:46] <d1ndra> Indranil Dutta
+[15:06:46] <iKshitij> Kshitij
+[15:06:49] <Krishna_> Krishna Biradar
+[15:06:49] <rohan_h> Rohan Hazra
+[15:06:49] <anushil05> Anushil Kumar
+[15:06:50] <sneo> Sarah Masud
+[15:06:55] <abk1> Abheek
+[15:06:57] <priyanka_> Priyanka Sharma
+[15:06:59] <sidhant> Sidhant Gupta
+[15:07:00] <ananthakrishnan> Ananthakrishnan H
+[15:07:01] <CuriousLearner> Sanyam Khurana
+[15:07:02] <aman935> Aman Singh
+[15:07:03] <sandeepmaity09> Sandeep Maity
+[15:07:04] <chshbh> Avinash Madhukar
+[15:07:04] <suniva> Suniva Priyadarshini
+[15:07:06] <nikhil07> Nikhil Arya
+[15:07:07] <avik> Avik Mukherjee
+[15:07:08] <vibhcool> Vibhor Verma
+[15:07:17] <rahul_bajaj> Rahul Bajaj
+[15:07:19] <akahat> Amol Kahat
+[15:07:25] <gayathri_> Gayathri Menakath
+[15:07:33] <prabhat> Prabhat Sharma
+[15:07:44] <a2batic> Kanika Murarka
+[15:08:01] <shalaka> shalaka
+[15:08:01] <fhackdroid> Farhaan Bukhsh
+[15:08:05] <yajushi> Yajushi Srivastava
+[15:08:21] <sayan> Should have atleast given me time to write 'Roll Call"
+[15:08:22] <code_geek> sayan, SRvSaha told me to inform you that he won't be able to attend today's session because of poor network connection.
+[15:08:37] <kushal> Okay
+[15:08:46] <sayan> Don't start giving Roll Call unless told
+[15:08:54] <fhackdroid> sayan, :P
+[15:09:13] <sayan> Questions?
+[15:09:14] <sandeepmaity09> ohk
+[15:09:18] <trishnag> Trishna Guha :P
+[15:09:23] <sayan> .link question
+[15:09:25] <CuriousLearner> sayan, haha :p
+[15:09:28] <mhalano> Marcos H. Alano
+[15:09:33] <sayan> .link question
+[15:09:39] <pabitra> :)
+[15:09:43] <sayan> Questions for last session?
+[15:10:53] <D1mz> Aditya Bayana
+[15:11:00] <thisisashwani> Ashwani Pandey
+[15:11:05] <kunalk> Kunal kumar
+[15:11:12] <ketank> ketan kumar
+[15:11:20] <yoda_> Piyush
+[15:11:41] <sayan> No questions from last seesion? Strange
+[15:11:46] <vbhjain> !
+[15:11:52] <sayan> Seems like people understood everything
+[15:11:57] <sayan> next
+[15:11:59] <vbhjain> I typed mistakenly man ls' and it prompted out : >
+[15:12:00] <vbhjain> and nothing then I pressed ctrl + d to end the execution. I use ubuntu 14.04 . why did it not prompted out : no manual entry for ls' ?
+[15:12:05] <sayan> clearqueue
+[15:12:10] <abstatic> !
+[15:13:06] <sayan> vbhjain: that is actually strange, do you remember you typed 'man ls'?
+[15:13:12] <sayan> no typos were in there?
+[15:13:39] <thisisashwani> @sayan, he typed man ls'
+[15:13:59] <thisisashwani> that's why he is getting >
+[15:14:17] <pabitra> sorry, I could not get much time to cover the book... as it was huge I did just cover very little
+[15:14:31] <sayan> oh! Isee
+[15:14:37] <thisisashwani> vbhjain: type 'man ls' without the quotes on any side!
+[15:14:51] <CuriousLearner> vbhjain, that's secondary prompt, shell expects that you'll enter something else to complet the command
+[15:15:11] <sayan> vbhjain: so giving ' in the end means that it expecting string
+[15:15:24] <sayan> that's why you were getting that prompt
+[15:15:45] <thisisashwani> okay, i didn't know the reason for the prompt. Now I know!
+[15:15:56] <vbhjain> CuriousLearner ,sayan : ok
+[15:16:03] <sayan> something like this https://paste.fedoraproject.org/383696/14666877/
+[15:16:16] <sayan> next
+[15:16:19] <abstatic> what is the difference between Ctrl +C and ctrl + D in bash
+[15:16:40] <priyanka_> what is bash?
+[15:16:57] <abstatic> Bourne Again SHell.
+[15:16:57] <thisisashwani> priyanka_: http://tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.pdf
+[15:17:03] <nikhil07> yup
+[15:17:15] <sayan> abstatic: http://lmgtfy.com/?q=what+is+the+difference+between+ctrl%2Bd+and+ctrl%2Bc+in+unix
+[15:17:17] <akahat> priyanka_, Bash is command line shell.
+[15:17:22] <iKshitij> !
+[15:17:50] <priyanka_> thisisashwani,  akahat thank you.
+[15:18:44] <sayan> priyanka_: Larry Page and Sergey Brin built a small little website that has everything you can try searching it there :)
+[15:18:49] <sayan> next
+[15:19:26] <priyanka_> sayan, which website?
+[15:19:34] <yASH> Google.com
+[15:19:35] <sandeepmaity09> Google
+[15:19:36] <nikhil07> google
+[15:19:39] <nikhil07> bro
+[15:19:55] <nikhil07> oops
+[15:19:55] <iKshitij> Sayan I am getting "admin is not in the sudoers file. this incident will be reported" for few commands. What's this ?
+[15:20:08] <rahul_bajaj> priyanka_, https://www.gnu.org/software/bash/manual/html_node/What-is-Bash_003f.html
+[15:20:13] <priyanka_> oh, thanks sayan.
+[15:20:19] <iKshitij> hahaa small website
+[15:20:54] <akahat> iKshitij, You need to add your user in sudoers file.
+[15:20:54] <sayan> iKshitij: you must be trying to use sudo with your commands!
+[15:20:57] <priyanka_> thanks rahul_bajaj.
+[15:21:16] <sayan> iKshitij: add you user to sudoers file.
+[15:21:17] <akahat> iKshitij, open /etc/sudoers file using root
+[15:21:28] <sayan> akahat: let me google :)
+[15:21:32] <skarale> Roll Call: Snehal Karale
+[15:21:33] <D1mz> iKshitij, alternatively you can use su
+[15:21:49] <sayan> next
+[15:21:55] <sayan> No more questions?
+[15:22:03] <hemanth> !
+[15:22:08] <sayan> next
+[15:22:08] <vbhjain> iKshitij, or you can use su to login as root
+[15:23:04] <hemanth> sayan can I change this in my command prompt "hemanth@hemanth-Inspiron-3542:~$" to just  hemanth
+[15:23:08] <akahat> sayan, ok :)
+[15:23:14] <iKshitij> tried but the same line. Thanks everyone I will try again.
+[15:23:23] <CuriousLearner> hemanth, that's primary prompt referred by PS1
+[15:23:26] <sayan> hemanth: yes, you can but I won't suggest :)
+[15:23:34] <sayan> check for changing PS1 on google
+[15:23:44] <sayan> CuriousLearner: +1
+[15:23:53] <hemanth> thanks sayan
+[15:24:09] <hemanth> thanks CuriousLearner
+[15:24:17] <sayan> I have messed up mine several times but it's a good learning too :)
+[15:24:23] <sayan> Questions?
+[15:24:29] <sandeepmaity09> iKshitij, use the command "usermod -aG sudo Your_user_name" to add user in sudoer's file
+[15:25:03] <yoda_> !
+[15:25:11] <sayan> next
+[15:25:18] <pksadiq> sandeepmaity09: but there is a circular dependency for running that command :)
+[15:25:52] <sayan> pksadiq: why?
+[15:26:02] <yoda_> difference between terminal and shell.why shell is such an important topic?how it is related to this training?
+[15:26:19] <iKshitij> akahat  "bash: /etc/sudoers: Permission denied"
+[15:26:23] <snarwade> sandeepmaity09, wheel group
+[15:26:33] <iKshitij> looged in as root
+[15:26:36] <sandeepmaity09> pksadiq, then edit the /etc/sudoers file by visudo command
+[15:26:37] <pksadiq> sayan: you need to run that command as root.
+[15:26:39] <chshbh> Terminal provides sort of GUI to shell, yoda_
+[15:26:43] <akahat> iKshitij, open it using root user
+[15:27:05] <sayan> yoda_: terminal is just an application
+[15:27:10] <rahul_bajaj> yoda_,  for now you can think of it being the same thing.
+[15:27:34] <indiabhi> !
+[15:27:41] <vbhjain> !
+[15:27:51] <yoda_> i.e what i do in terminal is executed in shell
+[15:27:55] <D1mz> !
+[15:27:55] <yoda_> right?
+[15:28:01] <sayan> rahul_bajaj: no the same, they are totally independent component
+[15:28:06] <sayan> s/no/not
+[15:28:34] <sayan> yoda_: yes
+[15:28:38] <sayan> next
+[15:28:50] <indiabhi> how is bash different from csh and other shell?
+[15:29:00] <CuriousLearner> yoda_, http://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line
+[15:30:12] <sayan> indiabhi: they have different features but with the core purpose same
+[15:31:01] <sayan> next
+[15:31:22] <vbhjain> what is the difference between usage of " pwd --logical " and " pwd --physical " ?
+[15:31:25] <vbhjain> if I see man pwd then it prompts out :
+[15:31:25] <vbhjain>  -L, --logical
+[15:31:25] <vbhjain>     use PWD from environment, even if it contains symlinks
+[15:31:25] <vbhjain>  -P, --physical    avoid all symlinks
+[15:31:44] <realslimshanky> !
+[15:32:41] <snarwade> vbhjain, symlinks like /usr/bin and /bin
+[15:32:56] <indiabhi> !
+[15:33:08] <sayan> vbhjain: -p excludes the symlinks
+[15:34:02] <sayan> have symlinks been taught?
+[15:34:10] <abstatic> no
+[15:34:18] <indiabhi> exactly my question?
+[15:34:46] <snarwade> sayan, it was discussed yesterday in between these questions
+[15:34:51] <sayan> I would then skip that part
+[15:35:07] <vbhjain> sayan ,ok
+[15:35:45] <sayan> snarwade: I would leave that to the bash session then
+[15:35:58] <thisisashwani> !
+[15:35:58] <snarwade> sayan, okay
+[15:36:01] <sayan> next
+[15:36:03] <D1mz> Will we be learning bash scripting as part of this class or will we be learning basics of bash?
+[15:37:19] <sayan> D1mz: yes, praveenkumar had to take up the session today but he got busy
+[15:37:50] <D1mz> sayan,you mean bash scripting?
+[15:38:03] <sayan> D1mz: writing scripts in bash
+[15:38:04] <sayan> next
+[15:38:12] * sayan is getting way too many calls
+[15:38:13] <D1mz> thank you.
+[15:38:31] <sayan> next
+[15:38:41] <realslimshanky> Hi sayan,it's my first day and I'm new to linux as well. I found iso for Ubuntu so didn't waste time on downloading fedora for now. Will there be any session for new users of linux from scratch ?
+[15:38:59] <indiabhi> already answered thank you.
+[15:39:03] <sayan> realslimshanky: yes, there have been a few sessions, you can check the logs
+[15:39:04] <sayan> next
+[15:39:12] <thisisashwani> query solved :)
+[15:39:18] <sayan> realslimshanky: https://dgplug.org/irclogs/
+[15:39:28] <realslimshanky> I'll go through them, Thanks batul :)
+[15:39:35] <realslimshanky> Thanks sayan :D
+[15:39:45] <sayan> next
+[15:40:34] <sayan> Questions?
+[15:40:46] <chshbh> realslimshanky : batul is a bot
+[15:40:49] <himanshutechy> !
+[15:40:54] <indiabhi> how does alias work? Does it execute a shell script?
+[15:40:55] <sayan> next
+[15:41:23] <himanshutechy> when we'll start the real coding or real world examples
+[15:41:25] <sayan> indiabhi: use ! :)
+[15:41:54] <indiabhi> sorry
+[15:42:06] <indiabhi> !
+[15:42:08] <sayan> himanshutechy: we are already in progress
+[15:42:15] <CuriousLearner> next
+[15:42:52] <sayan> next
+[15:42:58] <indiabhi> how does alias work? Does it execute a shell script?
+[15:43:02] <sayan> CuriousLearner: we need to add you to the script
+[15:43:13] <CuriousLearner> ah, alright sayan no issues :0
+[15:43:58] <snarwade> indiabhi, alias is just your custom command for shell command
+[15:44:10] <dgplug> Onkar karale
+[15:44:26] <indiabhi> so we can any number of aliases?
+[15:44:27] <pksadiq> dgplug: nice nick
+[15:44:32] <sayan> indiabhi:  yes
+[15:44:34] <snarwade> indiabhi, like you can put alias as 'indiabhi' for 'ls'
+[15:44:36] <CuriousLearner> indiabhi, yes
+[15:44:59] <indiabhi> okay and for more than one command?
+[15:45:16] <snarwade> indiabhi, you can put
+[15:45:22] <gkadam> indiabhi, you can write &&
+[15:45:24] <sayan> indiabhi: suppose you are typing commands with many arguments then you can create a alias
+[15:45:42] <gkadam> indiabhi, mkdir test && cd test
+[15:45:46] <snarwade> in /etc/profile or in bashrc file
+[15:46:23] <gkadam> indiabhi, snarwade , sayan sorry , i thought he is asking for executing multiple commands at a same time
+[15:46:50] <indiabhi> yeah got it thanks :)
+[15:46:55] <CuriousLearner> okay, more questions?
+[15:48:06] <CuriousLearner> anyone need to ask anything?
+[15:48:44] <aman-> !
+[15:48:48] <sayan> next
+[15:48:49] <CuriousLearner> next
+[15:48:56] <aman-> how can we made a binary file ?
+[15:49:17] <aman-> or any command file on any os ?
+[15:49:23] <poonam> !
+[15:49:28] <CuriousLearner> aman-, all executable programs are converted to binary
+[15:49:48] <sayan> next
+[15:49:57] <aman-> !
+[15:49:59] <akahat> aman-, you can change permissions
+[15:50:03] <poonam> if root is doing alias then will it be applicable to all other user?
+[15:50:34] <snarwade> poonam, if you put it in /etc/profile
+[15:50:49] <snarwade> other user also can use it poonam
+[15:51:32] <hemanth> !
+[15:51:58] <sayan> next
+[15:52:00] <aman-> there are many .bat or .config file . how can anyone create them ?
+[15:52:31] <gkadam> !
+[15:52:46] <indiabhi> !
+[15:52:48] <CuriousLearner> aman-, bat is used in windows, in linux we have .sh files
+[15:53:05] <sayan> aman-: so basically each software have their own set of configs
+[15:53:10] <CuriousLearner> config files are used for configuration purpose, created similarly you create other files
+[15:53:37] <sayan> you just need to follow the documentation and create the configuration files
+[15:53:38] <aman-> but in which language are they created ?
+[15:53:51] <CuriousLearner> aman-, depends on type of software
+[15:54:02] <aman-> okay ...thanks :)
+[15:54:07] <sayan> aman-: there are many markup languages, depends on how the software uses
+[15:54:25] <CuriousLearner> aman-, like you can use YAML
+[15:54:51] <CuriousLearner> next
+[15:54:55] <sayan> next
+[15:55:05] <hemanth> can one user get superuser previllege permanently so no need of sudo
+[15:55:16] <CuriousLearner> hemanth, you should not do that
+[15:55:25] <sayan> hemanth: yes you can
+[15:55:31] <abstatic> you can disable asking for password, in the sudoers file whenver you use the sudo command
+[15:55:33] <sayan> but as CuriousLearner said you should not
+[15:55:41] <CuriousLearner> uplifted privileges are dangerous
+[15:55:44] <sayan> abstatic: -1 for that too
+[15:55:59] <snarwade> hemanth, it can ruin your life :P
+[15:56:00] <sayan> next
+[15:56:04] <gkadam> how is .bashrc different from /etc/profile ?
+[15:56:23] <hemanth> thanks guys ... :)
+[15:57:15] <CuriousLearner> gkadam, google
+[15:57:30] <sayan> difficult question to explain :D
+[15:57:47] <snarwade> .bashrc is for specific user
+[15:57:54] <sayan> .bashrc or .zshrc are generally used to local based configuration
+[15:58:18] <sayan> s/local/user
+[15:58:41] <sayan> whereas /etc/profile helps settings the variables for all the user shells
+[15:58:42] <snarwade>   /etc/profile enables alias for all users
+[15:58:56] <mhalano> But there ~/.profile
+[15:59:32] <indiabhi> so for global changes and aliases we should put in /etc/profiles right?
+[15:59:41] <mhalano> I think ~/.profile is shell independent and ~/.bashrc and ~/.zshrc are shell dependent
+[15:59:51] <sayan> see the thing is if it's there in /etc it's for all users
+[16:00:26] <sayan> whereas if you keep it in the home directory it is for a single user
+[16:00:58] <snarwade> sayan, +1
+[16:00:59] <sayan> suppose my bashrc is in /home/devbox/.bashrc
+[16:01:36] <sayan> so this file will be initialized whenever I and starting bash or terminal from the user devbox
+[16:01:43] <mhalano> !
+[16:02:22] <sayan> this will also have the configuration from /etc/bashrc
+[16:02:42] <sayan> but if the same values are repeated in /etc/bashrc and ~/.bashrc
+[16:02:51] <sayan> then ~/.bashrc overrides the parent value
+[16:02:53] <sayan> next
+[16:02:56] <sayan> next
+[16:03:00] <mhalano> What is the difference between ~/.profile and ~/.{bash,zsh}rc?
+[16:03:07] <gkadam> :D
+[16:03:30] <sayan> gkadam: hope that explains :)
+[16:03:40] <gkadam> sayan, yes. thanks!
+[16:03:41] <indiabhi> good explanation, sayan  thanks :)
+[16:04:00] <snarwade> mhalano, I am unable to find ~/.profile :(
+[16:04:10] <sayan> mhalano: profile is used generally for setting environment variables like the PS1 I told you
+[16:04:22] <sayan> snarwade: if it's not there you can create one
+[16:04:32] <snarwade> sayan, ok
+[16:04:40] <snarwade> thanks
+[16:04:47] <sayan> and bashrc are for functions and aliases
+[16:04:49] <pksadiq> mhalano: every time the bash (or zsh) shell runs, it executes a file .bashrc (or .zshrc). So configurations related to those shells should be present in corresponding files
+[16:05:05] <mhalano> sayan, profile is shell independent?
+[16:05:25] <pksadiq> mhalano: ~/.profile (and /etc/profile) may be used by other graphical tools too  (not specific to bsh)
+[16:05:27] <sayan> mhalano: no
+[16:05:27] <pksadiq> bash*
+[16:05:38] <mhalano> I saw ~/bin as a path is declared in ~/.profile
+[16:06:16] <sayan> next
+[16:06:42] <mhalano> pksadiq, I know. That's why I say it is shell independent. Serves for bash, zsh, etc.
+[16:06:48] <sayan> Let's take the questions related to bashrc/profile after the class
+[16:07:12] <mhalano> sayan, ok
+[16:07:20] <sayan> So the next class will be posted on mailing list.
+[16:07:59] <sayan> Roll Call
+[16:08:01] <dep123k> Deepanshu Kapoor
+[16:08:03] <gkadam> ganesh kadam
+[16:08:05] <thisisashwani> Ashwani Pandey
+[16:08:05] <LambaInsaan> Rhitik Bhatt
+[16:08:05] <CuriousLearner> Sanyam Khurana
+[16:08:06] <indiabhi> Abhishek Rai
+[16:08:08] <sandy__> sandeep kumar choudhary
+[16:08:08] <abstatic> Abhishek Shrivastava
+[16:08:08] <pabitra> Pabitra Pati
+[16:08:09] <code_geek> Shantanu Acharya
+[16:08:10] <snarwade> Suraj Narwade
+[16:08:12] <priyanka_> Priyanka Sharma
+[16:08:13] <rohan_h> Rohan Hazra
+[16:08:13] <yASH> Yashwanth M
+[16:08:13] <Richard99> Mayank Gupta
+[16:08:14] <aman935> Aman Singh
+[16:08:16] <moizsajid_> Moiz Sajid
+[16:08:16] <akahat> Amol Kahat
+[16:08:17] <suniva> Suniva Priyadarshini
+[16:08:18] <pragnavi> Pragnavi
+[16:08:18] <sandeepmaity09> Sandeep Maity
+[16:08:18] <yajushi> Yajushi Srivastava
+[16:08:18] <rahul_bajaj> Rahul Bajaj
+[16:08:18] <PrashantJ> Prashant Jamkhande
+[16:08:19] <abk1>  Abheek
+[16:08:20] * sandy__ 
+[16:08:25] <snehal-k> Snehal karale
+[16:08:26] <frankanstine> Abhinav Jha
+[16:08:27] <kunalk> kunal kumar
+[16:08:31] <ak_d> Akhilesh Dhaundiyal
+[16:08:31] <vbhjain> Vaibhav Jain
+[16:08:32] <DeadShot> Rohit Kumar
+[16:08:32] <himanshutechy> Himanshu sharma
+[16:08:35] <ketank> ketan kumar
+[16:08:35] <anushil051> Anushil Kumar
+[16:08:35] <vivekshelar> Vivek shelar
+[16:08:42] <D1mz> Aditya Bayana
+[16:08:43] <real56> Varsha R
+[16:08:47] <sidhant> Sidhant Gupta
+[16:08:47] <shobhitupadhyay> shobhit upadhyay
+[16:08:52] <poonam> poonam jadhav
+[16:09:07] <trishnag> Trishna Guha
+[16:09:09] <avik> Avik Mukheree
+[16:09:10] <dgplug> Onkar karale
+[16:09:10] <chshbh> Avinash Madhukar
+[16:09:25] <realslimshanky> Shashank Kumar
+[16:09:30] <iKshitij> Kshitij
+[16:09:39] <mhalano> Marcos H Alano
+[16:09:40] <shauryak_3> Shaurya Kalia
+[16:10:07] <rajalokan> Alok Kumar
+[16:10:10] <warlord77_> Sahil Joseph
+[16:10:50] <sayan> endclass
+[16:10:50] [## Class Ended at Thu Jun 23 16:10:50 2016 ##]
